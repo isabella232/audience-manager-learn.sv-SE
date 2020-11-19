@@ -5,9 +5,9 @@ breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: af695bf5ffdb5abb16292f9de4682c132c55250b
 workflow-type: tm+mt
-source-wordcount: '710'
+source-wordcount: '725'
 ht-degree: 3%
 
 ---
@@ -126,6 +126,9 @@ ht-degree: 3%
       + [Skapa och konfigurera personbaserade mål](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [Understanding and Configuring the LinkedIn People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [Understanding and Configuring the Google Customer Match People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
++ Rapporter {#reports}
+   + [Använda allmänna rapporter med egenskaper och segment](reports/using-general-reports-with-traits-and-segments.md)
+   + [Använda trendrapporter med egenskaper och segment](reports/using-trended-reports-with-traits-and-segments.md)
 + Andra integreringar {#other-integrations}
    + Integrera med Ad Cloud {#integrating-with-ad-cloud}
       + [Integrering med Adobe Advertising Cloud och Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
