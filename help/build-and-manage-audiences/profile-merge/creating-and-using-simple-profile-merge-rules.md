@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa och använda enkelt [!UICONTROL Profile Merge Rules]
+# Skapa och använda enkel [!UICONTROL Profile Merge Rules]
 
 Lär dig mer om regler för profilsammanslagning och hur du tilldelar dem till segment. Lär dig mer om standardprofilen&quot;Aktuell enhet&quot; och när den kan/bör användas.
 
