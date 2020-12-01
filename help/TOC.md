@@ -16,7 +16,7 @@ ht-degree: 3%
 # Självstudiekurser för Audience Manager {#tutorials}
 
 + [Översikt](overview.md)
-+ Intro till Audience Manager {#intro-to-audience-manager}
++ Introduktion till Audience Manager {#intro-to-audience-manager}
    + [Hur en datahanteringsplattform kan förändra ert företag](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Översikt över en datahanteringsplattform](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Användningsexempel i Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -25,7 +25,7 @@ ht-degree: 3%
    + [Introduktion till identitet i Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Värderealisering {#value-realization}
       + [Mäta avkastningen i ett fall där kunden inte kan använda produkten](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
-+ Installation och administration {#setup-and-admin}
++ Konfigurera och administrera {#setup-and-admin}
    + Datakällor {#data-sources}
       + [Skapa en datakälla för analysdata](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
    + Datastyrning och sekretess {#data-governance-and-privacy}
@@ -86,13 +86,13 @@ ht-degree: 3%
       + [Förstå siffror i segmentdiagrammet](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Customer Tips - Traits and Segments Best Practices](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algoritmiska modeller {#algorithmic-models}
-      + [Förstå [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Konfigurera och rapportera [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Förstå  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Konfigurera och rapportera  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Skapa en modell som ser ut som den första parten](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exklusive egenskaper i algoritmiska (lookalike) modeller](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Öka ROAS genom att använda algoritmiska (lookalike)-modeller](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
       + [Använda lookalike-modeller för att utöka utsålda lager från era första parts data](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
-   + Sammanfoga profil {#profile-merge}
+   + Profilsammanfogning {#profile-merge}
       + [Regler för profilsammanslagning](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [Översikt över regler för profilsammanslagning](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [Exempel på regler för profilsammanslagning och användningsfall](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
@@ -107,7 +107,7 @@ ht-degree: 3%
       + [Understanding Cross-Device Metrics in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Kundtips - Få ut det mesta ur reglerna för profilsammanslagning](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Dataaktivering {#data-activation}
-   + Grunderna för destinationer {#destinations-basics}
+   + Grundläggande om destinationer {#destinations-basics}
       + [Om måltyper för Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Förstå matchningsfrekvenser](data-activation/destinations-basics/understanding-match-rates.md)
       + [Förstå gränssnittet Matcha frekvens](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
