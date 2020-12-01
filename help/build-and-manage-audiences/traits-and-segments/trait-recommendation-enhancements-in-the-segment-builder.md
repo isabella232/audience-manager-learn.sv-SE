@@ -18,9 +18,9 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Trait Recommendation] Förbättringar i [!DNL Segment Builder]
+# [!DNL Trait Recommendation] Förbättringar i  [!DNL Segment Builder]
 
-I den här videon får du se hur du använder de uppdaterade funktionerna [!DNL trait recommendations] i [!DNL segment builder], som är Audience Marketplace rekommendationer. Dessa ger er ytterligare insikt i [!DNL third party] data som kan göra er tillgängliga [!UICONTROL segments].
+I den här videon får du se hur du använder den uppdaterade [!DNL trait recommendations] i [!DNL segment builder], som är Audience Marketplace rekommendationer. Dessa ger dig ytterligare insikter i [!DNL third party]-data som kan utöka räckvidden för din [!UICONTROL segments].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29363/?quality=12)
 
