@@ -19,6 +19,6 @@ ht-degree: 1%
 
 # [!DNL Audience Identity] Rapporter
 
-[!DNL Audience Identity] Rapportering ger kunderna möjlighet att rapportera om den totala populationen av en identitet, [!UICONTROL trait] eller [!UICONTROL segment] per person/hushåll. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
+[!DNL Audience Identity] Rapportering ger kunderna möjlighet att rapportera om den totala populationen av en identitet,  [!UICONTROL trait] eller  [!UICONTROL segment] per person/hushåll. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)
