@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# IP-obefuscation per land i Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# IP-feber per land i Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 Audience Manager tillhandahåller självbetjäningsfunktioner i användargränssnittet så att kunderna kan aktivera IP-förfalskning globalt eller per land. I den här videon får du hjälp med konfigurationen.
 
