@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# Skapa segment för [!UICONTROL People-Based Destinations]
+# Skapar segment för [!UICONTROL People-Based Destinations]
 
 I den här videon får du hjälp med att skapa en [!UICONTROL segment] i Audience Manager som ska användas för [!UICONTROL People-Based Destinations].
 
