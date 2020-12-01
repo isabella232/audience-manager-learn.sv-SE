@@ -19,9 +19,9 @@ ht-degree: 0%
 
 # [!UICONTROL People-Based Destinations] Videor och Tutorials
 
-[!UICONTROL People-Based Destinations] gör det möjligt att använda segmentering på online- och offlinedata för att skapa målgruppssegment baserat på hashas-identifierare, som e-postadresser eller telefonnummer. Sedan kan ni skicka dessa segment till sociala plattformar som [!DNL Facebook] eller [!DNL LinkedIn]där ni kan inrikta er på målgruppen.
+[!UICONTROL People-Based Destinations] gör det möjligt att använda segmentering på online- och offlinedata för att skapa målgruppssegment baserat på hashas-identifierare, som e-postadresser eller telefonnummer. Sedan kan du skicka dessa segment till sociala plattformar som [!DNL Facebook] eller [!DNL LinkedIn], där du kan rikta in dig på målgruppen.
 
-Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som rör [!UICONTROL People-Based Destinations]. De har listats i den här beställningen efter syfte, när du arbetar dig genom flödet/processen för att konfigurera [!UICONTROL People-Based Destinations]:
+Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som rör [!UICONTROL People-Based Destinations]. De har listats i den här ordningen utifrån syfte, när du går igenom flödet/processen för att konfigurera [!UICONTROL People-Based Destinations]:
 
 * [Personbaserat måldataflöde](people-based-destinations-data-flow.md)
 * [Skapa en datakälla för personbaserade mål](creating-a-data-source-for-people-based-destinations.md)
