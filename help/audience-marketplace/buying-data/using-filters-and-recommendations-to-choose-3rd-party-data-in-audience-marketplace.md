@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Använda filter och Recommendations för att välja [!UICONTROL Third Party] data i [!UICONTROL Audience Marketplace]
+# Använda filter och Recommendations för att välja [!UICONTROL Third Party]-data i [!UICONTROL Audience Marketplace]
 
-Den här videon går igenom alternativen för filter och rekommendationer i [!UICONTROL Audience Marketplace] för att hjälpa dig välja rätt [!UICONTROL third party] dataleverantör för dina behov.
+Den här videon går igenom alternativen för filter och rekommendationer i [!UICONTROL Audience Marketplace] för att hjälpa dig att välja rätt [!UICONTROL third party]-dataleverantör för dina behov.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29370/?quality=12)
 
