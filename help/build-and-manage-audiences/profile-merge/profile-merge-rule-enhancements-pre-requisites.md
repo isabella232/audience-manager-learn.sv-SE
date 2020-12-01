@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge Rule] Förbättringar - krav
 
-En översikt över hur du bäst förbereder dig för att släppa [!UICONTROL Profile Merge Rule] förbättringar.
+En översikt över hur du bäst förbereder dig för att släppa [!UICONTROL Profile Merge Rule]-förbättringar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28971/?quality=12)
