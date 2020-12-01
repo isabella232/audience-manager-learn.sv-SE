@@ -1,6 +1,6 @@
 ---
-title: Konfigurera och rapportera på [!UICONTROL Predictive Audiences] Audience Manager
-description: I den här videon går vi igenom [!UICONTROL Predictive Audiences] konfigurationen i Audience Manager. Vi kommer också att se rapporter som visar modellens resultat.
+title: Konfigurera och rapportera [!UICONTROL Predictive Audiences] i Audience Manager
+description: I den här videon går vi igenom [!UICONTROL Predictive Audiences]-konfigurationen i gränssnittet Audience Manager. Vi kommer också att se rapporter som visar modellens resultat.
 feature: algorithmic models
 topics: null
 audience: administrator
@@ -17,9 +17,9 @@ ht-degree: 0%
 ---
 
 
-# Konfigurera och rapportera på [!UICONTROL Predictive Audiences] Audience Manager
+# Konfigurera och rapportera [!UICONTROL Predictive Audiences] i Audience Manager
 
-I den här videon går vi igenom [!UICONTROL Predictive Audiences] konfigurationen i Audience Manager. Vi kommer också att se rapporter som visar modellens resultat.
+I den här videon går vi igenom [!UICONTROL Predictive Audiences]-konfigurationen i gränssnittet Audience Manager. Vi kommer också att se rapporter som visar modellens resultat.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33630/?quality=12)
 
