@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Customer Tips - Traits and Segments Best Practices
 
-**Matt Vittorioso**, Senior Marketing Specialist på **[!DNL Ally Financial]**, ger tips om hur man hanterar egenskaper och segment.
+**Matt Vittorioso**, Senior Marketing Specialist på  **[!DNL Ally Financial]**, ger tips om hur man hanterar egenskaper och segment.
 
 Matt Vittorioso är Senior Marketing Specialist på Digital Marketing Team på Ally Financial. Han leder det digitala segmenteringsteamet och ansvarar för alla data som skickas in och ut av målgruppshanteraren. Matt samarbetar nära med alla interna intressenter och externa byråpartners för att säkerställa att rätt segment skapas för alla Allys kampanjer. Tips som:
 
