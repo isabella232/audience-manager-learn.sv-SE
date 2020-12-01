@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # [!UICONTROL Profile Merge] - Videor och Tutorials
 
-Med [!UICONTROL Profile Merge Rules] full kontroll över de datauppsättningar som används för [!UICONTROL segmentation] och kan rikta sig exakt till en person på flera enheter.
+Med [!UICONTROL Profile Merge Rules] får du kontroll över de datauppsättningar som används för [!UICONTROL segmentation] och kan rikta in dig korrekt på en person över flera enheter.
 
 Det här avsnittet innehåller följande videofilmer för [!UICONTROL Profile Merge Rules]:
 
@@ -34,4 +34,4 @@ Det här avsnittet innehåller följande videofilmer för [!UICONTROL Profile Me
 * [Tolka målgruppsidentitetsrapportering](interpret-audience-identity-reporting.md)
 * [Understanding Cross-Device Metrics in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Dessa videofilmer kan användas tillsammans med [dokumentationen](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Dessa videoklipp kan användas tillsammans med [dokumentationen](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
