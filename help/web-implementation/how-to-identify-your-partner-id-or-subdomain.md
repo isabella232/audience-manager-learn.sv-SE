@@ -19,15 +19,15 @@ ht-degree: 0%
 
 # Identifiera din Audience Manager-underdomän {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
-När du implementerar vissa Experience Cloud-funktioner måste du veta vad Audience Manager `Subdomain` är (kallas ibland även din `client ID` eller `Partner ID`). I den här videon visar vi två ställen där du kan få den här informationen i användargränssnittet för Audience Manager.
+När du implementerar vissa Experience Cloud-funktioner måste du veta vad din Audience Manager `Subdomain` är (kallas ibland `client ID` eller `Partner ID`). I den här videon visar vi två ställen där du kan få den här informationen i användargränssnittet för Audience Manager.
 
-## Gav bort slutet.. {#giving-away-the-ending}
+## Tar bort slutet... {#giving-away-the-ending}
 
-Om du hellre vill hoppa in och hitta den utan att titta på den här korta videon hittar du den `Partner Subdomain` på två ställen i användargränssnittet:
+Om du hellre vill hoppa in och hitta den utan att titta på den här korta videon kan du hitta din `Partner Subdomain` på två ställen i användargränssnittet:
 
-1. Om du redan har skapat ett [!UICONTROL rule-based] dokument [!UICONTROL trait]klickar du **[!UICONTROL Get Trait URL]**
-   [!UICONTROL Get Trait URL] står bredvid [!UICONTROL trait] i listan över [!UICONTROL traits] i mappen och URL:en kommer att inkludera din underdomän i URL:en.
-1. Om du går in i **[!UICONTROL Tools]** >- **[!UICONTROL Tags]** gränssnittet och klickar **[!UICONTROL Get code]** för behållaren är underdomänen mot slutet av Akamai-raden
+1. Om du redan har skapat en [!UICONTROL rule-based] [!UICONTROL trait] klickar du på **[!UICONTROL Get Trait URL]**
+   [!UICONTROL Get Trait URL] står bredvid  [!UICONTROL trait] i listan över  [!UICONTROL traits] i mappen och URL:en kommer att inkludera din underdomän i URL:en.
+1. Om du går in i **[!UICONTROL Tools]** > **[!UICONTROL Tags]**-gränssnittet och klickar på **[!UICONTROL Get code]** för behållaren är underdomänen mot slutet av Akamai-raden
 
 Om du inte snabbt hittar den med de här snabbreferenserna är videon ett kort åtagande. :)
 
