@@ -17,12 +17,12 @@ ht-degree: 0%
 ---
 
 
-# Förstå Audience Manager- [!UICONTROL Destination] typer
+# Förstå Audience Manager [!UICONTROL Destination]-typer
 
-I den här videon får du hjälp med de olika typerna av program [!UICONTROL destinations] i Adobe Audience Manager och exempel på när du ska använda dem.
+Den här videon visar de olika typerna av [!UICONTROL destinations] i Adobe Audience Manager och ger exempel på när du ska använda var och en av dem.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Du kan hämta en lista över server-till-server- [!UICONTROL destination] partners [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
+Du kan hämta en lista över server-till-server [!UICONTROL destination] partners [HERE](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
 
 Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/destinations.html).
