@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Övervakning och rapportering om aktivitetsanvändning
 
-I den här videon går vi igenom hur du använder [!DNL Activity Usage Report], inklusive visning och nedladdning.
+I den här videon går vi igenom hur du använder [!DNL Activity Usage Report], inklusive alternativ för visning och hämtning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
