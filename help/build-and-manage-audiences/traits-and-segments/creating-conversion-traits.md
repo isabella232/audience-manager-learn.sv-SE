@@ -18,14 +18,14 @@ ht-degree: 0%
 ---
 
 
-# Skapa konvertering [!UICONTROL Traits] i Audience Manager {#creating-conversion-traits-in-audience-manager}
+# Skapar konvertering [!UICONTROL Traits] i Audience Manager {#creating-conversion-traits-in-audience-manager}
 
-Vissa av dina [!UICONTROL traits] bilder baseras på konverteringar på din webbplats. I den här videon får du lära dig att beteckna dem som sådana och lära dig ett mycket viktigt tips/gotcha.
+Vissa av dina [!UICONTROL traits] baseras på konverteringar på din plats. I den här videon får du lära dig att beteckna dem som sådana och lära dig ett mycket viktigt tips/gotcha.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-Vad försöker du få folk att göra på din sajt? Vad är din konverteringshändelse? Det finns förstås många olika svar på den här frågan, beroende på webbplatstyp/vertikal och organisationens mål. I vilket fall som helst är det vanligt i AAM att skapa [!UICONTROL traits] för besökare som uppfyller dessa kriterier.
+Vad försöker du få folk att göra på din sajt? Vad är din konverteringshändelse? Det finns förstås många olika svar på den här frågan, beroende på webbplatstyp/vertikal och organisationens mål. I vilket fall som helst är det vanligt att AAM skapar [!UICONTROL traits] för besökare som uppfyller dessa villkor.
 
-I AAM finns det ett fält där du kan markera [!UICONTROL trait] som ett [!UICONTROL conversion] fält [!UICONTROL trait]och särskilt för användning i [!UICONTROL Audience Lab].
+I AAM finns det ett fält där du kan markera [!UICONTROL trait] som [!UICONTROL conversion] [!UICONTROL trait], speciellt för [!UICONTROL Audience Lab].
 
-När du använder händelser för att skapa [!UICONTROL traits]finns det en stor grej som du måste tänka på, så att du inte samlar in fler användare än du borde i [!UICONTROL trait]. Se den här videon för den stora avslöjandet. :)
+När du använder händelser för att skapa [!UICONTROL traits] finns det dessutom en stor gotcha som du måste tänka på, så att du inte samlar in fler användare än du borde i [!UICONTROL trait]. Se den här videon för den stora avslöjandet. :)
