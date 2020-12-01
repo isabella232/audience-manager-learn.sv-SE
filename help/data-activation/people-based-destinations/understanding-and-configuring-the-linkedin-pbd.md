@@ -25,4 +25,4 @@ I den här videon får du hjälp med att skapa en [!UICONTROL People-Based Desti
 
 Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Du kan även hitta ytterligare videofilmer om [!UICONTROL People-Based Destinations] HERE [](https://adobe.ly/aamlearnpbd).
+Du kan också hitta ytterligare videofilmer om [!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd).
