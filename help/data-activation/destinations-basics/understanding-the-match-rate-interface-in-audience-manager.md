@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Förstå gränssnittet Matcha frekvens i Audience Manager
 
-I den här videon får du hjälp med att visa och förklara de siffror som är associerade med matchningsfrekvenser och [!UICONTROL destination] [!DNL addressable audiences].
+I den här videon visas hur du använder gränssnittet [!UICONTROL destination] och visar och förklarar de tal som är associerade med matchningsfrekvenser och [!DNL addressable audiences].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29831/?quality=12)
 
