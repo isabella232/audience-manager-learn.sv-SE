@@ -17,8 +17,8 @@ ht-degree: 0%
 ---
 
 
-# Inkommande hash PII för [!UICONTROL People-Based Destinations]
+# Inmatning av Hash-kodad PII för [!UICONTROL People-Based Destinations]
 
-I den här videon får du lära dig hur du formaterar en filbaserad ID-synkronisering för att koppla samman dina kund-ID:n (CRM ID) med hash-kodade e-postadresser. På så sätt kan du skicka hash-kodade e-postadresser till [!UICONTROL People-Based Destinations]exempel [!DNL Facebook].
+I den här videon får du lära dig hur du formaterar en filbaserad ID-synkronisering för att koppla samman dina kund-ID:n (CRM ID) med hash-kodade e-postadresser. Detta gör att du kan skicka de hash-kodade e-postadresserna till [!UICONTROL People-Based Destinations], som [!DNL Facebook].
 
 >[!VIDEO](https://video.tv.adobe.com/v/29122/?quality=12)
