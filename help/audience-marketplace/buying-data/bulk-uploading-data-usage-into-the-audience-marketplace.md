@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Massöverföring av dataanvändning till [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
-När du rapporterar dataanvändning från andra och tredje part i [!UICONTROL Audience Marketplace]kan det finnas tillräckligt många poster för att du inte vill göra det manuellt. I den här videon får du lära dig hur du använder satsöverföringsverktyget för rapportering av dataanvändning, så att du enkelt kan rapportera din dataanvändning, även om du har många objekt att uppdatera.
+När du rapporterar dataanvändning från andra och tredje part i [!UICONTROL Audience Marketplace] kan du ha tillräckligt många poster för att göra det så att du inte vill göra det för hand. I den här videon får du lära dig hur du använder satsöverföringsverktyget för rapportering av dataanvändning, så att du enkelt kan rapportera din dataanvändning, även om du har många objekt att uppdatera.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
-Förutom att ha det här massöverföringsverktyget för att förenkla och spara tid när du rapporterar dataanvändningen, kan kunder som köper data från andra eller tredje part [!UICONTROL Audience Marketplace] dra nytta av en förbättrad policy för kostnadsattribuering. Denna nya policy tilldelar kostnader till dataleverantörer baserat på antalet unika användare i ett regelbaserat segment, vilket ger större transparens och rättvis fakturering.
+Förutom att ha det här massöverföringsverktyget för att förenkla och spara tid när du rapporterar dataanvändningen, kan kunder som köper data från [!UICONTROL Audience Marketplace] från andra part eller tredje part dra nytta av en förbättrad policy för kostnadsattribuering. Denna nya policy tilldelar kostnader till dataleverantörer baserat på antalet unika användare i ett regelbaserat segment, vilket ger större transparens och rättvis fakturering.
 Mer information om faktureringsalgoritmen finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html).
 
 Mer information om hur du rapporterar CPM-användning finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html).
