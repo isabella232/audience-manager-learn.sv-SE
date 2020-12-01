@@ -20,6 +20,6 @@ ht-degree: 0%
 
 # Mappa segment till ett enhetsbaserat mål
 
-Om du vill skicka ut ett målgruppssegment till en DSP eller annan partner måste du mappa segmentet till ett mål i Audience Manager. I den här videon går du igenom mappningen av segment till ett enhetsbaserat mål, som också kallas _server-till-server_ -mål.
+Om du vill skicka ut ett målgruppssegment till en DSP eller annan partner måste du mappa segmentet till ett mål i Audience Manager. I den här videon går du igenom mappningen av segment till ett enhetsbaserat mål, som också kallas _server-till-server_-mål.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36495/?quality=12&learn=on)
