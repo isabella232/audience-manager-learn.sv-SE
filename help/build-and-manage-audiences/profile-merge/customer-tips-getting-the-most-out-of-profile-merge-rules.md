@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Kundtips - Få ut det mesta ur reglerna för profilsammanslagning
 
-**Varun Kalra**, Multi-Solution Consultant på **Enligt**, ger tips om hur man väljer och använder regler för profilsammanslagning (PMR).
+**Varun Kalra**, Multi-Solution Consultant på  **Enligt**, ger tips om hur man väljer och använder regler för profilsammanslagning (PMR).
 
 Varun Kalra är en konsult för flera lösningar som arbetar i en Sydney-baserad Adobe Solution Partner - Beroant. Varun arbetar främst med Audience Manager-, Adobe Analytics- och AEP-projekt som innefattar dataidentifiering, implementering, stöd och aktivering. Tips som:
 
