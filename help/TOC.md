@@ -5,9 +5,9 @@ breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 6e933376127eb1e5fdb2e28c4761e2423f1f9813
+source-git-commit: 468ebd3e9056e946b3b54c9e312214558fb881b8
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '743'
 ht-degree: 3%
 
 ---
@@ -70,6 +70,7 @@ ht-degree: 3%
       + [Skapa introduktionskunskaper](build-and-manage-audiences/traits-and-segments/creating-onboarded-traits.md)
       + [Skapar konverteringsegenskaper](build-and-manage-audiences/traits-and-segments/creating-conversion-traits.md)
       + [Välja en datakälla när egenskaper skapas](build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.md)
+      + [Konfigurera förfallotid för trait med TTL-inställningen (Time to Live)](build-and-manage-audiences/traits-and-segments/configuring-trait-expiration-with-the-time-to-live-ttl-setting.md)
       + [Använda kodvyn för att skapa och redigera egenskaper](build-and-manage-audiences/traits-and-segments/using-code-view-to-create-and-edit-traits.md)
       + [Introduktion till grupphantering (BAAAM)](build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.md)
       + [Grunderna i att skapa segment](build-and-manage-audiences/traits-and-segments/the-basics-of-creating-segments.md)
