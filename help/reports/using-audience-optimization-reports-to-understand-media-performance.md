@@ -8,9 +8,9 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330401.jpg
-kt: null
+kt: 6838
 translation-type: tm+mt
-source-git-commit: 20d832f8f25e7a56b800c36e1e0e70eb51956de0
+source-git-commit: 3b0e5754a857160fd0dc0d2d97f7ea18ba71bf46
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
