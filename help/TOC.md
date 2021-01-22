@@ -5,9 +5,9 @@ breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 18b3c68cbb1c00abe087ea0deaa940c67d7ebb97
+source-git-commit: 1dbbe590c85c1ca8406bbf1c841ace49c95f822f
 workflow-type: tm+mt
-source-wordcount: '773'
+source-wordcount: '781'
 ht-degree: 2%
 
 ---
@@ -83,6 +83,7 @@ ht-degree: 2%
       + [Förbättringar av varumärkesrekommendation i segmentbyggaren](build-and-manage-audiences/traits-and-segments/trait-recommendation-enhancements-in-the-segment-builder.md)
       + [Använda senaste och frekventa i segment](build-and-manage-audiences/traits-and-segments/using-recency-and-frequency-in-segments.md)
       + [Använda kodvyn när segment skapas](build-and-manage-audiences/traits-and-segments/using-code-view-when-building-segments.md)
+      + [Importera segment från Adobe Analytics till Audience Manager](build-and-manage-audiences/traits-and-segments/import-aa-segments-into-aam.md)
       + [Skapa ett segment för att utelämna annonser till kunder](build-and-manage-audiences/traits-and-segments/building-a-segment-to-suppress-ads-to-customers.md)
       + [Mappa Audience Manager-segment till mål](build-and-manage-audiences/traits-and-segments/mapping-audience-manager-segments-to-destinations.md)
       + [Mappa segment till ett enhetsbaserat mål](build-and-manage-audiences/traits-and-segments/mapping-segments-to-a-device-based-destination.md)
