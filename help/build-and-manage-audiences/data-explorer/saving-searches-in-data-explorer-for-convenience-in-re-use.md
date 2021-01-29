@@ -8,11 +8,12 @@ activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
+thumbnail: 25147.jpg
 kt: 1763
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
