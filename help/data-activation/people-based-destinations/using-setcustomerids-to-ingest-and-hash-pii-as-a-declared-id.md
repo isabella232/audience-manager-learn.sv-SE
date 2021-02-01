@@ -7,9 +7,10 @@ audience: implementer, developer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 29136.jpg
 kt: 3689
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 91b0de776dbf1ab6d565f9adb5fa88d014a2e6f6
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
