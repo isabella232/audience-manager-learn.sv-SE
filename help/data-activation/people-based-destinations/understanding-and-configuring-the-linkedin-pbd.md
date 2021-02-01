@@ -7,9 +7,10 @@ audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 34171.jpg
 kt: 5028
 translation-type: tm+mt
-source-git-commit: 235db3648b84db272cf68b863cf1df7b6d14ee92
+source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 0%
