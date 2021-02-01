@@ -7,9 +7,10 @@ audience: all
 activity: understand
 doc-type: feature video
 team: Experience League
+thumbnail: 29831.jpg
 kt: 4034
 translation-type: tm+mt
-source-git-commit: d44d3dac986881c9660190aae3b4d012741ad4bc
+source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
