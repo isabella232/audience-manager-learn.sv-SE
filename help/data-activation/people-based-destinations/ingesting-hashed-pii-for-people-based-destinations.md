@@ -7,9 +7,10 @@ audience: all
 activity: setup
 doc-type: technical video
 team: Technical Marketing
+thumbnail: 29122.jpg
 kt: 3341
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
