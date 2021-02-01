@@ -7,9 +7,10 @@ audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 24923.jpg
 kt: 1552
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
