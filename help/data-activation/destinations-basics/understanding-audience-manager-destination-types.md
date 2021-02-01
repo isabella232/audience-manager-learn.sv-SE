@@ -7,9 +7,10 @@ audience: all
 activity: understand
 doc-type: presentation
 team: Technical Marketing
+thumbnail: 29839.jpg
 kt: 4016
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
