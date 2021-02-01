@@ -7,9 +7,10 @@ audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
+thumbnail: 29830.jpg
 kt: 4033
 translation-type: tm+mt
-source-git-commit: 109a461d6022639c2e0427248eb85533ac41f916
+source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
