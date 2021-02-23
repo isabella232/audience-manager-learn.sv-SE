@@ -5,9 +5,9 @@ breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 76148acf54798376cb591e215b4ba50fdc6b72f2
+source-git-commit: 68e5ab7aec35619af29ed075bef872d9db2da178
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '849'
 ht-degree: 2%
 
 ---
@@ -59,6 +59,8 @@ ht-degree: 2%
       + [Rapportera dataanvändning från andra och tredje part i Audience Marketplace på segmentnivå](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
       + [Massöverföring av dataanvändning till Audience Marketplace](audience-marketplace/buying-data/bulk-uploading-data-usage-into-the-audience-marketplace.md)
       + [Använda filter och Recommendations för att välja data från tredje part i Audience Marketplace](audience-marketplace/buying-data/using-filters-and-recommendations-to-choose-3rd-party-data-in-audience-marketplace.md)
+   + Försäljningsdata {#selling-data}
+      + [Kommunicera om egna målgrupper på Marketplace](audience-marketplace/selling-data/commercialize-owned-audiences-on-marketplace.md)
 + Bygg och hantera målgrupper {#build-and-manage-audiences}
    + Data Explorer {#data-explorer}
       + [Använda kontrollpanelen Signals för att snabbt visa de viktigaste tillgängliga signaturerna](build-and-manage-audiences/data-explorer/using-the-signals-dashboard-to-quickly-view-top-available-signals.md)
@@ -142,6 +144,10 @@ ht-degree: 2%
    + [Förstå relaterade målgrupper med överlappningsrapporter](reports/understand-related-audiences-with-overlap-reports.md)
    + [Använda Audience Optimization-rapporter för att förstå medieprestanda](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Andra integreringar {#other-integrations}
+   + Integrera med kunddataplattformen {#integrating-with-rtcdp} i realtid
+      + [Infoga data med Adobe Audience Manager dataanslutning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
+      + [Förstå datainmatning från första part i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
+      + [Förstå inmatning av webbdata i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
    + Integrera med Ad Cloud {#integrating-with-ad-cloud}
       + [Integrering med Adobe Advertising Cloud och Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
