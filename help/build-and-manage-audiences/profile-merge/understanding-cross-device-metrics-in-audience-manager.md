@@ -1,17 +1,18 @@
 ---
 title: Understanding Cross-Device Metrics in Audience Manager
 description: I den här videon diskuterar vi skillnaden mellan enhetsprofiler och enhetsövergripande profiler och visar var siffrorna i användargränssnittet matchar de olika profiltyperna.
-feature: profile merge
+feature: profilsammanslagning
 topics: null
 audience: administrator
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 33445.jpg
 kt: 4876
 translation-type: tm+mt
-source-git-commit: a674acdbd30a63db467e65b9e27f7362cba0c788
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
