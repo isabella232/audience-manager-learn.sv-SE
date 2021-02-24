@@ -1,17 +1,18 @@
 ---
 title: Använda lookalike-modeller för att utöka utsålda lager från era första parts data
 description: I den här självstudiekursen går vi igenom de steg du bör ta för att konfigurera och använda stilliknande modeller, så att du kan skapa nya lookalike-målgrupper och sälja dem som ett tillägg till ditt konverteringssegment.
-feature: algorithmic models
+feature: algoritmiska modeller
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23523.jpg
 kt: 1688
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '825'
+source-wordcount: '827'
 ht-degree: 0%
 
 ---
