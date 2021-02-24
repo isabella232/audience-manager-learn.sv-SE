@@ -1,17 +1,18 @@
 ---
 title: Massöverföring av dataanvändning till Audience Marketplace
 description: 'När du rapporterar dataanvändning från andra och tredje part i Audience Marketplace kan det finnas tillräckligt många poster för att du inte vill göra det för hand. I den här videon får du lära dig hur du använder satsöverföringsverktyget för rapportering av dataanvändning, så att du enkelt kan rapportera din dataanvändning, även om du har många objekt att uppdatera. '
-feature: audience marketplace
+feature: målgrupp
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25521.jpg
 kt: 1782
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
