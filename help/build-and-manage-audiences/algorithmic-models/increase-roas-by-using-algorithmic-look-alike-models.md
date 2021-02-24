@@ -1,17 +1,18 @@
 ---
 title: Öka ROAS genom att använda algoritmiska (lookalike)-modeller i Audience Manager
 description: Den verkliga styrkan hos Audience Manager Look-alike-modellering kommer när ni vill utöka er baslinjepublik mot en ny uppsättning kvalitetsanvändare från datakällor från andra och tredje part. I den här självstudiekursen lär du dig hur du skapar en modell utifrån dessa data.
-feature: algorithmic models
+feature: algoritmiska modeller
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 25188.jpg
 kt: 1849
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
 workflow-type: tm+mt
-source-wordcount: '860'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
