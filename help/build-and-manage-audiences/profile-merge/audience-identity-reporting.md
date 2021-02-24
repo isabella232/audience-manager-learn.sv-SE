@@ -1,17 +1,18 @@
 ---
 title: Målgruppsidentitetsrapportering
 description: Audience Identity Reporting ger kunderna möjlighet att rapportera om den totala populationen av en egenskap eller definitioner av identitet per person/hushåll för en egenskap eller ett segment. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
-feature: profile merge
+feature: profilsammanslagning
 topics: null
 audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 27977.jpg
 kt: 3202
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '80'
 ht-degree: 1%
 
 ---
