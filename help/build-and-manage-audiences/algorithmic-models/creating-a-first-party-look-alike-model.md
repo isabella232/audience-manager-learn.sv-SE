@@ -1,17 +1,18 @@
 ---
 title: Skapa en modell som liknar utseendet för första parten i AAM
 description: I den här videon får du lära dig att skapa en modell som ser likadan ut som förstahandsvalet, så att du kan hitta fler egna besökare som ser ut som dina konverterare.
-feature: algorithmic models
+feature: algoritmiska modeller
 topics: null
 audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23504.jpg
 kt: 1805
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
