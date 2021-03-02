@@ -1,7 +1,8 @@
 ---
 cloud: experience-cloud
 product: audience manager
-type: Tutorial
+type: Självstudiekurs
+feature-set: Audience Manager
 solution-title: Audience Manager
 solution-hub-url: https://helpx.adobe.com/se/support/audience-manager.html
 solution-image: assets/aam-icon-24.png
@@ -13,9 +14,9 @@ mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-learn.sv-SE
 index: true
 translation-type: tm+mt
-source-git-commit: 7fff1e02177c16c756eaa5a453b8b19f2aa49b25
+source-git-commit: fad76124632e4a02f745375023ae49cf8d6ec1ae
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '152'
 ht-degree: 2%
 
 ---
