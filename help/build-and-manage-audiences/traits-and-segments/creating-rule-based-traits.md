@@ -1,19 +1,20 @@
 ---
 title: Skapa regelbaserade egenskaper
 description: Lär dig hur du använder Trait Builder i användargränssnittet för Audience Manager för att skapa ett regelbaserat beteende som gör att du kan fånga in realtidsaktivitet i Audience Manager-profiler.
-feature: traits
+feature: 'Traits '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34749.jpg
 kt: 5290
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '58'
-ht-degree: 0%
+source-wordcount: '62'
+ht-degree: 1%
 
 ---
 
