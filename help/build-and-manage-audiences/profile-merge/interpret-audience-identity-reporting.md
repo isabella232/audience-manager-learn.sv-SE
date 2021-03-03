@@ -1,18 +1,19 @@
 ---
 title: Tolka målgruppsidentitetsrapportering
 description: Audience Identity Reporting ger kunderna möjlighet att rapportera om den totala populationen av en egenskap eller definitioner av identitet per person/hushåll för en egenskap eller ett segment. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
-feature: profilsammanslagning
+feature: Sammanfoga profil
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
