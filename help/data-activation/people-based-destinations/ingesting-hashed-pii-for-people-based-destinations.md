@@ -1,18 +1,19 @@
 ---
 title: Inmatning av hash-kodad PII för personbaserade destinationer
 description: I den här videon får du lära dig hur du formaterar en filbaserad ID-synkronisering för att koppla samman dina kund-ID:n (CRM ID) med hash-kodade e-postadresser.
-feature: people-based destinations
+feature: '"Personbaserade destinationer"'
 topics: null
-audience: all
 activity: setup
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29122.jpg
 kt: 3341
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
