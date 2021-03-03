@@ -1,18 +1,19 @@
 ---
 title: Använda profilkopplingsregler för enhetstillägg och utökad räckvidd
 description: Använd regler för profilsammanslagning för att nå ut till alla användarens enheter, så att du kan marknadsföra till människor i stället för till enheter.
-feature: profile merge
+feature: Sammanfoga profil
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35939.jpg
 kt: 5552
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
