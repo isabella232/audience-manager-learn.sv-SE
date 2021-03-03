@@ -1,18 +1,19 @@
 ---
 title: Skapa och använda enkla regler för profilsammanslagning
 description: Lär dig mer om regler för profilsammanslagning och hur du tilldelar dem till segment. Lär dig mer om standardprofilen"Aktuell enhet" och när den kan/bör användas.
-feature: profile merge
+feature: Sammanfoga profil
 topics: null
-audience: marketer
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35937.jpg
 kt: 5356
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
