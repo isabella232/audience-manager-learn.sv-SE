@@ -1,20 +1,21 @@
 ---
 title: Spara sökningar i Data Explorer för att underlätta återanvändning
 description: I den här videon får du lära dig hur du konfigurerar en sökning i Data Explorer, kör den och sedan sparar den för återanvändning vid ett senare tillfälle. Du kan också placera den sparade sökningen på kontrollpanelen så att den blir omedelbart tillgänglig när du går till appen Signaler.
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 thumbnail: 25147.jpg
 kt: 1763
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '140'
+ht-degree: 1%
 
 ---
 
