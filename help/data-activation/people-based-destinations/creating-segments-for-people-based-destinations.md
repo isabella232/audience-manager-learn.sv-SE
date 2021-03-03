@@ -1,18 +1,19 @@
 ---
 title: Skapa segment för personbaserade destinationer i Adobe Audience Manager
 description: I den här videon får du hjälp med att skapa ett segment i Audience Manager som ska användas för personbaserade destinationer.
-feature: people-based destinations
+feature: '"Personbaserade destinationer"'
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29236.jpg
 kt: 3690
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
