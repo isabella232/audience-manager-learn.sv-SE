@@ -2,17 +2,18 @@
 title: Migrera från spårningsserver till rapportservervidarebefordran på servernivå
 description: I den här artikeln och videon visas hur du aktiverar vidarebefordran av analysdata på serversidan till Audience Manager på rapportsvitnivå i stället för på en spårningsservernivå.
 product: audience manager, analytics
-feature: integration with analytics
+feature: Adobe Analytics Integration
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
+role: '"Utvecklare, datatekniker"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '577'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,7 @@ Om du har Adobe Audience Manager OCH Adobe Analytics kan du implementera [!UICON
 
 ## [!UICONTROL Tracking Server] Vidarebefordra  {#tracking-server-forwarding}
 
-Din [!UICONTROL tracking server] är den plats dit du skickar dina [!DNL Analytics]-data, samt den domän där bildbegäran och cookie-filen skrivs. Den ska anges i DTM eller [!DNL Experience Platform Launch], eller i filen [!DNL AppMeasurement.js], och ska vanligtvis se ut så här, med plats- eller företagsnamnet som ersätter &quot;mysite&quot;:
+Din [!UICONTROL tracking server] är den plats dit du skickar dina [!DNL Analytics]-data, samt den domän där bildbegäran och cookie-filen skrivs. Den ska ställas in i DTM eller [!DNL Experience Platform Launch], eller i filen [!DNL AppMeasurement.js], och ska vanligtvis se ut så här, och din webbplats eller ditt företagsnamn ska ersätta &quot;mysite&quot;:
 
 `s.trackingServer = "mysite.sc.omtrdc.net";`
 
@@ -44,4 +45,4 @@ En av de största fördelarna med att övergå till [!UICONTROL report suite]-vi
 
 ## Viktigt tips {#additional-resources}
 
-Som framgår av videon ovan bör du, när du har alla [!UICONTROL report suites] som du vill vidarebefordra till Audience Manager, kontakta Adobe kundtjänst eller Adobe Consulting och be dem inaktivera vidarebefordran av [!UICONTROL tracking server]. Du behöver inte göra detta eftersom både [!UICONTROL tracking server]-vidarebefordran och [!UICONTROL report suite]-vidarebefordran INTE leder till dubbla träffar. Det är dock bäst att endast ha [!UICONTROL report suite] vidarebefordring aktiverat. Om du låter [!UICONTROL tracking server] vidarebefordra kanske det inte bara vidarebefordrar data från [!UICONTROL report suites] som du inte vill vidarebefordra, utan när du (och alla på ditt företag) har glömt att [!UICONTROL tracking server]-vidarebefordran är aktiverad, kanske du tror att data inte vidarebefordras för en viss [!UICONTROL report suite] (eftersom den inte är aktiverad på rapportsvitnivå), men informationen vidarebefordras ändå på grund av [!UICONTROL tracking server]. Sedan kommer du att slösa tid och pengar på att ta reda på varför det vidarebefordras och även betala för AAM serversamtal som du inte hade väntat dig. Därför är det bara en bra idé att inaktivera [!UICONTROL tracking server]-vidarebefordran så snart du har alla [!UICONTROL report suites] som är inställda att vidarebefordra och som passar ditt företags behov.
+Som framgår av videon ovan bör du, när du har alla [!UICONTROL report suites] som du vill vidarebefordra till Audience Manager, kontakta Adobe kundtjänst eller Adobe Consulting och be dem inaktivera vidarebefordran av [!UICONTROL tracking server]. Du behöver inte göra detta eftersom både [!UICONTROL tracking server]-vidarebefordran och [!UICONTROL report suite]-vidarebefordran INTE leder till dubbla träffar. Det är dock bäst att endast ha [!UICONTROL report suite] vidarebefordring aktiverat. Om du låter [!UICONTROL tracking server] vidarebefordra kanske det inte bara vidarebefordrar data från [!UICONTROL report suites] som du inte vill vidarebefordra, utan när du (och alla på ditt företag) har glömt att [!UICONTROL tracking server]-vidarebefordran är aktiverad, kanske du tror att data inte vidarebefordras för en viss [!UICONTROL report suite] (eftersom den inte är aktiverad på rapportsvitnivå), men informationen vidarebefordras ändå på grund av att [!UICONTROL tracking server]. Sedan kommer du att slösa tid och pengar på att ta reda på varför det vidarebefordras och även betala för AAM serversamtal som du inte hade väntat dig. Därför är det bara en bra idé att inaktivera [!UICONTROL tracking server]-vidarebefordran så snart du har alla [!UICONTROL report suites] som är inställda att vidarebefordra och som passar ditt företags behov.
