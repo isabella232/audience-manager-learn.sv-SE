@@ -1,18 +1,19 @@
 ---
 title: Rapportera dataanvändning från andra och tredje part i Audience Marketplace på segmentnivå
 description: I den här videon visas en ny metod för att rapportera dataanvändning i sektionen Skulder i användargränssnittet i Audience Marketplace. Utöver den befintliga processen för rapportering på feednivå kan nu månadsvisningar skickas på segmentnivå, vilket eliminerar behovet av offlineberäkningar för kostnadsattribuering.
-feature: målgrupp
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
