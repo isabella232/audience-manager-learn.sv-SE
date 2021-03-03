@@ -1,19 +1,20 @@
 ---
 title: Använda kontrollpanelen Signals för att snabbt visa de viktigaste tillgängliga signaturerna
 description: Genom att använda inbyggda och anpassade tabeller på kontrollpanelen Signals i Datan Explorer kan du snabbt se de senaste data som kommer in i Audience Manager och till och med klicka dig igenom för att skapa egenskaper efter behov. Välkommen till ditt nya, effektivare arbetsflöde!
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25151.jpg
 kt: 2140
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '182'
+ht-degree: 1%
 
 ---
 
