@@ -1,18 +1,19 @@
 ---
 title: 'Använda Data Explorer för att validera Trait Creation för dina inbyggda data '
 description: En av de kraftfullaste funktionerna i Audience Manager är möjligheten att lägga in offlinedata och knyta dessa till era onlinedata. I den här videon får du lära dig hur du använder Data Explorer för att validera att du har skapat alla egenskaper som krävs för att utnyttja dessa inbyggda data.
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
