@@ -1,18 +1,19 @@
 ---
 title: Formatering och inmatning av filbaserade data
 description: När du tar in din första part i Audience Manager för att bättre förstå och inrikta dig på kunden finns det vissa formateringskrav för data. I den här videon går du igenom några av huvudalternativen och visar var du kan få mer information.
-feature: onboarding offline data
+feature: Onboarding Offline-data
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331007.jpg
 kt: 7026
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: b6ce5148bfbc9062948eef3402da309d06a97d3e
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
