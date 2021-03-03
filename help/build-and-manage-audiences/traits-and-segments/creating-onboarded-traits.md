@@ -1,19 +1,20 @@
 ---
 title: Skapa introduktionskunskaper
 description: Lär dig tips om hur du skapar praktik i Audience Manager.
-feature: traits
+feature: 'Traits '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40267.jpg
 kt: 6215
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 9964af4660db48b82da871f426bbf70b3955f0f1
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '24'
-ht-degree: 0%
+source-wordcount: '28'
+ht-degree: 3%
 
 ---
 
