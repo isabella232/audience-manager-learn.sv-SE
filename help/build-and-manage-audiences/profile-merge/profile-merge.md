@@ -1,17 +1,18 @@
 ---
 title: Videofilmer och Tutorials om profilsammanslagning
 description: Det här avsnittet innehåller videoklipp och självstudiekurser för profilsammanfogningsfunktioner, som regler för profilsammanfogning.
-feature: profile merge
+feature: Sammanfoga profil
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: null
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: dfd549508cc223714bdb07ac6fd2aa31e6ca5586
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
