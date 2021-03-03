@@ -1,17 +1,18 @@
 ---
 title: Verifiering av globalt enhets-ID
 description: Identifierare för enhetsannonsering (dvs. iDFA, GAID, Roku ID) har formateringsstandarder som måste uppfyllas för att kunna användas i det digitala reklamekosystemet. Idag kan kunder och partners överföra ID:n till våra globala datakällor i vilket format som helst utan att meddelas om ID:t är korrekt formaterat. Den här funktionen kommer att innebära validering av enhets-ID:n som skickas till globala datakällor för korrekt formatering och felmeddelanden när ID:n är felaktigt formaterade. Vi stöder validering av iDFA-, Google Advertising- och Roku-ID:n vid start.
-feature: data governance & privacy
+feature: '"Datastyrning och sekretess"'
 topics: mobile
-audience: implementer, developer, architect
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
+role: '"Utvecklare, datatekniker, arkitekt"'
+level: Erfaren
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '786'
 ht-degree: 1%
 
 ---
@@ -93,7 +94,7 @@ Se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/us
 
 ## Onboarding Global Device ID {#onboarding-global-device-ids}
 
-Förutom att skicka in globala enhets-ID i realtid kan du även &quot;[!DNL onboard]&quot; (överföra) data mot ID:n. Den här processen är densamma som när du registrerar data mot dina kund-ID:n (vanligtvis via nyckel/värde-par), men du använder bara rätt ID för datakälla så att data tilldelas till det globala enhets-ID:t. Dokumentation om introduktionsprocessen finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Kom ihåg att använda det globala [!UICONTROL data source]-ID:t, beroende på vilken plattform du använder.
+Förutom att skicka globala enhets-ID:n i realtid kan du även överföra data från [!DNL onboard] till ID:n. Den här processen är densamma som när du registrerar data mot dina kund-ID:n (vanligtvis via nyckel/värde-par), men du använder bara rätt ID för datakälla så att data tilldelas till det globala enhets-ID:t. Dokumentation om introduktionsprocessen finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Kom ihåg att använda det globala [!UICONTROL data source]-ID:t, beroende på vilken plattform du använder.
 
 Om felaktiga globala enhets-ID:n skickas via introduktionsprocessen visas felen i [[!DNL Onboarding Status Report]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html?lang=en#reporting).
 
