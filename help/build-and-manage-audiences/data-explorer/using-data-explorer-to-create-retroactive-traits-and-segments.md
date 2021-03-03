@@ -1,19 +1,20 @@
 ---
 title: Använda Data Explorer för att skapa retroaktiva egenskaper och segment
 description: I den här videon visas hur du skapar retroaktiva egenskaper, d.v.s. egenskaper som fyller i data baklänges till egenskaperna från innan de skapades. Det här är ett stort genombrott när det gäller att skapa egenskaper!
-feature: data explorer
+feature: 'Data Explorer '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25169.jpg
 kt: 1762
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: b6e04039491a6e35c35ea46c38eaebfa879de713
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '179'
+ht-degree: 1%
 
 ---
 
