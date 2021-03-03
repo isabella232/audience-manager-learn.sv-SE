@@ -1,19 +1,20 @@
 ---
 title: Skapa segment från flera datakällor
 description: När du skapar segment i Audience Manager kan du lägga till egenskaper från olika datakällor. I den här videon visas hur du gör det och andra inställningar som behöver övervägas.
-feature: segments
+feature: 'Segment '
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37713.jpg
 kt: 5867
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: e2783b1740dac0819ded3827d74f9f78decc5935
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 1%
 
 ---
 
