@@ -1,18 +1,19 @@
 ---
 title: Hämta API-autentiseringsuppgifter i Adobe IO
 description: Istället för att kontakta Adobe Consulting eller kundtjänst för att få inloggningsuppgifter för att använda REST API kan du bara gå till Adobe.io i en webbläsare och hämta eller registrera dina egna inloggningsuppgifter.
-feature: api
+feature: API
 topics: null
-audience: developer
 activity: develop
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 37889.jpg
 kt: 5971
+role: Utvecklare
+level: Erfaren
 translation-type: tm+mt
-source-git-commit: 75748e00781a6563af5e9e4312c45d66ec6105a0
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
