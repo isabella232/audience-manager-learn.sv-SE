@@ -1,18 +1,19 @@
 ---
 title: Skapa konverteringsegenskaper i Audience Manager
 description: Vissa av dina egenskaper bygger på konverteringar på webbplatsen. I den här videon får du lära dig att beteckna dem som sådana och lära dig ett mycket viktigt tips/gotcha.
-feature: traits
+feature: 'Traits '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23431.jpg
 kt: 1804
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 8c13bcad395966cb07bb2aab850108884c8741d9
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
