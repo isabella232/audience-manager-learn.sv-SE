@@ -1,18 +1,19 @@
 ---
 title: Hur profilkopplingsregel förbättrar effektsegmentering, aktivering och rapportering
 description: Förstå hur förbättringar av profilsammanslagningsregel påverkar totalt intag- och segmentpopulationer i användargränssnittet för Audience Manager
-feature: profilsammanslagning
+feature: Sammanfoga profil
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
