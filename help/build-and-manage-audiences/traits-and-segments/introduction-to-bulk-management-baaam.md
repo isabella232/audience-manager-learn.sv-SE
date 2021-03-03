@@ -1,19 +1,20 @@
 ---
 title: Introduktion till grupphantering (BAAAM)
 description: Läs mer om Audience Manager Bulk Management Tool, som ofta kallas "BAAAM". Se hur du autentiserar så att du kan använda BAAAM-bladet för att skapa, redigera och ta bort egenskaper och segment via REST API.
-feature: baaam
+feature: BAAAM
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327692.jpg
 kt: 6050
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 1%
 
 ---
 
