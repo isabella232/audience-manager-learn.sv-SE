@@ -1,18 +1,19 @@
 ---
 title: Översikt över regler för profilsammanslagning
 description: Förstå vilka regler för profilsammanslagning som är, hur de fungerar och deras värde för marknadsföraren.
-feature: profilsammanslagning
+feature: Sammanfoga profil
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28974.jpg
 kt: 3708
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---
