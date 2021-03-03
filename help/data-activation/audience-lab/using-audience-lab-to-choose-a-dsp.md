@@ -1,18 +1,19 @@
 ---
 title: Använda Audience Lab för att välja en DSP
 description: I den här videon går vi igenom hur du skapar ett Audience Lab-test, så att du kan testa A/B-DSP eller andra AAM för att se vilken som ger bäst avkastning på annonskostnaderna.
-feature: audience lab
+feature: 'Audience Lab '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '252'
 ht-degree: 0%
 
 ---
