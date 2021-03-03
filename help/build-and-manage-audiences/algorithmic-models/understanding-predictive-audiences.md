@@ -1,19 +1,20 @@
 ---
 title: Förstå [!UICONTROL Predictive Audiences] i Audience Manager
 description: I den här videon diskuterar vi vad Audience Manager [!UICONTROL Predictive Audiences] är, presenterar detaljer om hur de fungerar och visar användningsexempel.
-feature: algoritmiska modeller
+feature: Algoritmiska modeller
 topics: null
-audience: administrator
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 33629.jpg
 kt: 4938
+role: Administratör
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 6c81fd73d2c5abd646b0d38b6f4eebde837b09f2
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '71'
+ht-degree: 2%
 
 ---
 
