@@ -3,16 +3,18 @@ title: Förstå inmatning av webbdata i CDP för Audience Manager i realtid
 description: I den här videon visas Audience Manager-användare begreppen för att föra in webbplatsdata i kunddataplattformen i realtid (CDP i realtid) och innehåller en högnivåtouche om var Audience Manager Data Connector passar samt hur data kan flyttas från webbplatsen direkt via Web SDK till CDP i realtid.
 feature: Plattformsintegrering
 topics: null
-audience: marketer
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331752.jpg
 kt: 7153
+topic: Integreringar
+role: Yrkesverksamma inom affärsverksamhet
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: 3d4e02bf43874c35f508a5b204775c0a3ceee21b
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
