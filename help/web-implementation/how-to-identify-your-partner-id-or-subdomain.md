@@ -1,17 +1,18 @@
 ---
 title: Identifiera ditt Audience Manager partner-ID eller underdomän
 description: När du implementerar vissa Experience Cloud-funktioner måste du veta vad ditt Audience Manager "partner-ID" är (kallas ibland även ditt "klient-ID" eller "underdomän"). I den här videon visar vi två platser där du kan få detta ID i användargränssnittet för Audience Manager.
-feature: implementation basics
+feature: Implementeringsgrunder
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
+role: '"Utvecklare, datatekniker"'
+level: Mellanliggande
 translation-type: tm+mt
-source-git-commit: a108c51fdad66f4e7974eb96609b6d8f058cb6ff
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -35,5 +36,5 @@ Om du inte snabbt hittar den med de här snabbreferenserna är videon ett kort �
 
 >[!IMPORTANT]
 >
->Varje kund i Adobe Experience Cloud tilldelas ett numeriskt ID och detta kallas ofta för&quot;PID&quot; eller partner-ID. Detta är inte det ID som vi pratar om i den här artikeln och videon. I stället är &quot;partnerunderdomänen&quot;, som ibland kallas partner-ID, vanligtvis en version av klientnamnet och är underdomänen till servern som data skickas till. Om ditt företag till exempel är&quot;Bob&#39;s Knobs&quot; (alla saker är &quot;haha&quot;) är det troligt att din partnerunderdomän är&quot;bobsknobs&quot;, medan&quot;PID&quot; är något mer som&quot;12345&quot;. Du behöver vanligtvis inte känna till ditt PID, men din underdomän är viktig att känna till så att du kan konfigurera implementeringen av Audience Manager.
+>Varje kund i Adobe Experience Cloud tilldelas ett numeriskt ID, och detta kallas ofta för&quot;PID&quot; eller partner-ID. Detta är inte det ID som vi pratar om i den här artikeln och videon. I stället är &quot;partnerunderdomänen&quot;, som ibland kallas partner-ID, vanligtvis en version av klientnamnet och är underdomänen till servern som data skickas till. Om ditt företag till exempel är&quot;Bob&#39;s Knobs&quot; (alla saker är &quot;haha&quot;) är det troligt att din partnerunderdomän är&quot;bobsknobs&quot;, medan&quot;PID&quot; är något mer som&quot;12345&quot;. Du behöver vanligtvis inte känna till ditt PID, men din underdomän är viktig att känna till så att du kan konfigurera implementeringen av Audience Manager.
 
