@@ -1,18 +1,19 @@
 ---
 title: Förstå Hash PII-datainmatning för personbaserade mål
 description: Den här videon handlar om saker du behöver tänka på när du är redo att importera PII till Audience Manager för personbaserade destinationer.
-feature: people-based destinations
+feature: '"Personbaserade destinationer"'
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29003.jpg
 kt: 3701
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
