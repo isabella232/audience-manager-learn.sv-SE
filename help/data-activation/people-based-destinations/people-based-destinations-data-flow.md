@@ -1,18 +1,19 @@
 ---
 title: Personbaserat måldataflöde
 description: Den här videon ger en översikt över personbaserade mål och visar dataflödet genom processen.
-feature: people-based destinations
+feature: '"Personbaserade destinationer"'
 topics: null
-audience: all
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28968.jpg
 kt: 3683
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
