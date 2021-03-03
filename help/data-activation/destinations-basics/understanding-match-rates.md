@@ -1,19 +1,20 @@
 ---
 title: Förstå matchningsfrekvenser
 description: Den här videon hjälper dig att förstå matchningsfrekvenser i Adobe Audience Manager, vad de är och hur de beräknas. Du kommer också att lära dig några bästa metoder samt vad som kan orsaka låg matchningsfrekvens.
-feature: match rates
+feature: Matchningsfrekvenser
 topics: null
-audience: all
 activity: understand
 doc-type: presentation
 team: Experience League
 thumbnail: 29830.jpg
 kt: 4033
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 0%
+source-wordcount: '105'
+ht-degree: 1%
 
 ---
 
