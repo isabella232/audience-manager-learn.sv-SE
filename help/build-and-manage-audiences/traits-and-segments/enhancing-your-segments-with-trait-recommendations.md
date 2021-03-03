@@ -1,18 +1,19 @@
 ---
 title: Förbättra dina AAM segment med Trait Recommendations
 description: När du skapar eller redigerar ett segment i Segment Builder med Trait Recommendations får du rekommendationer om ytterligare egenskaper som du kan inkludera, som liknar egenskaperna i segmentregeln.
-feature: segments
+feature: 'Segment '
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 26228.jpg
 kt: 2431
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: 4988e9eb900e5dfd6e0a69a25509186d26dceffb
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '114'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Förbättra dina AAM [!UICONTROL Segments] med [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-När du skapar eller redigerar en [!DNL Trait Recommendations] i [!UICONTROL segment] får du rekommendationer om ytterligare [!DNL Segment Builder] som du kan ta med, som liknar [!UICONTROL traits] i [!UICONTROL traits]-regeln.[!UICONTROL segment]
+När du skapar eller redigerar en [!UICONTROL segment] i [!DNL Segment Builder] får du rekommendationer om ytterligare [!UICONTROL traits] som du kan inkludera, som liknar [!UICONTROL traits] i [!UICONTROL segment]-regeln.[!DNL Trait Recommendations]
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
