@@ -1,19 +1,20 @@
 ---
 title: Använda filter och Recommendations för att välja data från tredje part i Audience Marketplace
 description: Den här videon går igenom alternativen för filter och rekommendationer i Audience Marketplace för att hjälpa dig att välja rätt tredjepartsleverantör av data efter dina behov.
-feature: målgrupp
+feature: Audience Marketplace
 topics: null
-audience: all
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29370.jpg
 kt: 3938
+role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 2%
 
 ---
 
