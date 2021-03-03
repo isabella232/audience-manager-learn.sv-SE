@@ -1,18 +1,19 @@
 ---
 title: Understanding and Configuring the LinkedIn People-Based Destination
 description: I den här videon får du hjälp med att skapa ett personbaserat mål för LinkedIn. Det bygger på ytterligare videor och dokumentation om personbaserade destinationer.
-feature: people-based destinations
+feature: '"Personbaserade destinationer"'
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 34171.jpg
 kt: 5028
+role: Yrkesverksamma inom affärsverksamhet
+level: Nybörjare
 translation-type: tm+mt
-source-git-commit: d7d451683ac280ce3ef245384758b5989f28b265
+source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
