@@ -5,9 +5,9 @@ breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
+source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
 workflow-type: tm+mt
-source-wordcount: '866'
+source-wordcount: '877'
 ht-degree: 2%
 
 ---
@@ -150,7 +150,9 @@ ht-degree: 2%
       + [Förstå inmatning av webbdata i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
       + [Scheman och XDM i realtid CDP](other-integrations/integrating-with-rtcdp/rtcdp-schemas-xdm-for-aam-users.md)
       + [Understanding Traits in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
+      + [Förstå signaler i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [Förstå segment i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [Åtkomstkontroll i realtid CDP](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
    + Integrera med Ad Cloud {#integrating-with-ad-cloud}
       + [Integrering med Adobe Advertising Cloud och Adobe Audience Manager](other-integrations/integrating-with-ad-cloud/advertising-cloud-and-audience-manager-integration.md)
 + API {#api}
