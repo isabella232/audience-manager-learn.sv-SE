@@ -5,9 +5,9 @@ breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: dd9d976928124dbdfedf462022bd48e3bb21792b
+source-git-commit: d53ef772f62f917e3823c0c133999e9384183ee8
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '904'
 ht-degree: 2%
 
 ---
@@ -25,6 +25,10 @@ ht-degree: 2%
    + [Introduktion till identitet i Audience Manager](intro-to-audience-manager/introduction-to-identity-in-audience-manager.md)
    + Värderealisering {#value-realization}
       + [Mäta avkastningen i ett fall där kunden inte kan använda produkten](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
++ Branschnyheter och trender {#industry}
+   + [Framtiden för datahantering och den föränderliga miljön](industry/the-future-of-data-management-and-the-changing-environment.md)
+   + [10 saker att tänka på när det gäller ansvarstagande kunddatahantering](industry/ten-considerations-for-responsible-customer-data-management.md)
+   + [En tabell med två perceptioner - varumärken jämfört med konsumenter](industry/brands-vs-consumers.md)
 + Konfigurera och administrera {#setup-and-admin}
    + Datakällor {#data-sources}
       + [Skapa en datakälla för analysdata](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
