@@ -5,10 +5,10 @@ breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: 4e536596d8fc3f7004e9d0be05b01066a92f73f5
 workflow-type: tm+mt
-source-wordcount: '910'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -156,6 +156,7 @@ ht-degree: 2%
       + [Understanding Traits in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-traits-for-aam-users.md)
       + [Förstå signaler i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-signals-for-aam-users.md)
       + [Förstå segment i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.md)
+      + [Förstå destinationer i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.md)
       + [Åtkomstkontroll i realtid CDP](other-integrations/integrating-with-rtcdp/rtcdp-access-control-for-aam-users.md)
       + [Understanding Data Governance in Real-time CDP](other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.md)
    + Integrera med Ad Cloud {#integrating-with-ad-cloud}
