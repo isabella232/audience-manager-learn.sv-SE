@@ -3,15 +3,15 @@ title: Scheman och XDM i realtid CDP för Audience Manager-användare
 description: När du går från Audience Manager till kunddataplattformen i realtid (CDP i realtid) kommer du att upptäcka några nya koncept och metoder. Scheman och XDM hör till den kategorin. I den här videon förklaras dessa koncept.
 feature: Plattformsintegrering
 topic: Integreringar
-role: Yrkesverksamma inom affärsverksamhet
+role: Affärsledare, arkitekt, administratör, ledare
 level: Mellanliggande
 doc-type: feature video
 thumbnail: 332023.jpg
 kt: 7272
 translation-type: tm+mt
-source-git-commit: d211642f7d75f406e2c0fc12b9f82f4cea311be9
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
