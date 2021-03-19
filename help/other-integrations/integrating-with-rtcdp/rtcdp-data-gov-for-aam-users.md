@@ -3,15 +3,15 @@ title: Understanding Data Governance in Real-time CDP for Audience Manager Users
 description: I den här videon går Audience Manager igenom datastyrningsfunktionen i kunddataplattformen i realtid och jämför den med det som fanns i Audience Manager. Där diskuteras ramverket för dataanvändning och implementering av märkning (DULE) och var i Platform som det kan tillämpas.
 feature: Plattformsintegrering
 topic: Integreringar
-role: Yrkesverksamma inom affärsverksamhet
+role: Affärsledare, arkitekt, administratör, ledare
 level: Mellanliggande
 doc-type: feature video
 thumbnail: 332123.jpg
 kt: 7337
 translation-type: tm+mt
-source-git-commit: 48ca8defbccd66127518f14d8b86dc96044743e6
+source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
