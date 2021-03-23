@@ -13,8 +13,8 @@ level: Nybörjare
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
