@@ -8,16 +8,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
-
 
 # Skapa en [!UICONTROL Data Source] för [!DNL Analytics]-data {#create-a-data-source-for-analytics-data}
 
