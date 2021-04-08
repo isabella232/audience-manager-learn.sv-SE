@@ -9,16 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 kt: 5146
 thumbnail: 34172.jpg
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Introduktion till identitet i Audience Manager
 
