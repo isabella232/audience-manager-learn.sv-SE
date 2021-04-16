@@ -1,22 +1,22 @@
 ---
 title: Verifiering av globalt enhets-ID
 description: Identifierare för enhetsannonsering (dvs. iDFA, GAID, Roku ID) har formateringsstandarder som måste uppfyllas för att kunna användas i det digitala reklamekosystemet. Idag kan kunder och partners överföra ID:n till våra globala datakällor i vilket format som helst utan att meddelas om ID:t är korrekt formaterat. Den här funktionen kommer att innebära validering av enhets-ID:n som skickas till globala datakällor för korrekt formatering och felmeddelanden när ID:n är felaktigt formaterade. Vi stöder validering av iDFA-, Google Advertising- och Roku-ID:n vid start.
-feature: '"Datastyrning och sekretess"'
+feature: Datastyrning och sekretess
 topics: mobile
 activity: implement
 doc-type: article
 team: Technical Marketing
 kt: 2977
-role: '"Utvecklare, datatekniker, arkitekt"'
-level: Erfaren
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '786'
+source-wordcount: '781'
 ht-degree: 1%
 
 ---
-
 
 # Verifiering av globalt enhets-ID {#global-device-id-validation}
 
