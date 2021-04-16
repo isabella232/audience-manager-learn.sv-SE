@@ -1,23 +1,23 @@
 ---
 title: Migrera implementeringen av din webbplats AAM från Client-Side DIL till Vidarebefordring på serversidan
 description: Den här självstudiekursen gäller dig om du har både Adobe Audience Manager (AAM) och Adobe Analytics, och du för närvarande skickar en träff från sidan till AAM med DIL (Data Integration Library)-kod, samt skickar en träff från sidan till Adobe Analytics. Eftersom ni har båda dessa lösningar, och eftersom de båda är en del av Adobe Experience Cloud, har ni möjlighet att följa den bästa metoden att aktivera"Serversidans vidarebefordring (SSF)", som gör det möjligt för analysdatainsamlingsservrarna att vidarebefordra webbplatsanalysdata i realtid till Audience Manager, i stället för att låta klientsidans kod skicka ytterligare en träff från sidan till AAM. I den här självstudiekursen får du hjälp med att gå över från den äldre implementeringen av "Client-Side DIL" till den nya metoden "Server-Side Fording".
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: '"Utvecklare, datatekniker"'
-level: Mellanliggande
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2322'
 ht-degree: 0%
 
 ---
-
 
 # Migrerar implementeringen av din webbplats AAM från [!DNL Client-Side] DIL till [!DNL Server-Side Forwarding] {#migrating-your-site-s-aam-implementation-from-client-side-dil-to-server-side-forwarding}
 
@@ -83,7 +83,7 @@ Om du använder ett TMS som inte är Adobe eller inget TMS alls implementerar du
 
 När du är redo att gå från [!DNL Client-Side] DIL till [!UICONTROL Server-Side Forwarding] är det första steget att identifiera allt du gör med DIL-kod, inklusive anpassade inställningar och data som skickas till AAM. Några saker att tänka på:
 
-* Normala [!DNL Analytics]-variabler med modulen [!DNL siteCatalyst.init] DIL - du behöver inte bekymra dig om den här, eftersom dess jobb är att skicka de normala [!DNL Analytics]-variablerna över, och det kommer att hända om du bara har SWF aktiverat.
+* Normala [!DNL Analytics]-variabler med modulen [!DNL siteCatalyst.init] DIL - du behöver inte bekymra dig om den här, eftersom dess jobb är att skicka de normala [!DNL Analytics]-variablerna över, och det kommer att ske genom att bara SSF är aktiverat.
 * Deldomän för partner - I funktionen DIL.create kan du göra en anteckning av parametern `partner`. Detta kallas din&quot;partnerunderdomän&quot; eller ibland&quot;partner-ID&quot; och kommer att behövas när du monterar den nya SSF-koden.
 * [!DNL Visitor Service Namespace] - Kallas även&quot;[!DNL Org ID]&quot; eller&quot;[!DNL IMS Org ID]&quot; när du skapar den nya SSF-koden. Notera det.
 * containerNSID, uidCookie och andra avancerade alternativ - Anteckna eventuella ytterligare avancerade alternativ som du använder så att du även kan ange dem i SSF-koden.
