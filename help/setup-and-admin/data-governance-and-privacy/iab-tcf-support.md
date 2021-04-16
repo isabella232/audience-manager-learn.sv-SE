@@ -2,22 +2,21 @@
 title: Stöd för IAB TCF 2.0 i Audience Manager
 description: Adobe ger dig möjlighet att hantera och förmedla användarnas valmöjligheter i fråga om integritet via pluginmodulen Audience Manager till stödet för IAB Transparency och Consent Framework 2.0 (TCF 2.0). Den här artikeln fungerar tillsammans med dokumentationen som hjälper dig att förstå Audience Manager plugin-programmet till IAB TCF och hur det fungerar tillsammans med Adobe's Opt-in-objektet och din CMP (Consent Management Provider).
 feature: '"Datastyrning och sekretess"'
-topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 26434.jpg
 kt: 5027
-role: '"Utvecklare, datatekniker, arkitekt"'
-level: Erfaren
+role: Developer, Data Engineer, Architect
+level: Experienced
+exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
-
 
 # Stöd för IAB TCF 2.0 i Audience Manager {#iab-tcf-support-in-audience-manager}
 
@@ -70,7 +69,7 @@ En annan del av IAB TC-strängen är en lång lista med flera hundra leverantör
 
 ## Anmäl dig: Översättning mellan IAB-lösningar och Adobe-lösningar {#opt-in-translating-between-iab-and-adobe-solutions}
 
-En av fördelarna med IAB TCF är att de standardsyften som anges ovan antagligen ger slutanvändaren en bättre uppfattning om vad de godkänner än en lista över Adobe. Slutanvändare kanske inte vet vad det innebär att&quot;godkänna&quot; Audience Manager eller [!DNL Target], men&quot;Lagra och/eller få åtkomst till information på en enhet&quot; eller&quot;Utveckla och förbättra produkter&quot; är antagligen enklare för dem att förstå och godkänna.
+En av fördelarna med IAB TCF är att de standardsyften som anges ovan antagligen ger slutanvändaren en bättre uppfattning om vad de godkänner än en lista över Adobe. Slutanvändare kanske inte vet vad det innebär att&quot;godkänna&quot; Audience Manager eller [!DNL Target], men&quot;Lagra och/eller få åtkomst till information på en enhet&quot; eller&quot;Utveckla och förbättra produkter&quot; är antagligen lättare för dem att förstå och godkänna.
 
 För att Audience Manager ska kunna godkännas (dvs. för att kunna översätta IAB-syften för deltagande för att ge AAM en ja-röst) måste slutanvändaren ge sitt samtycke för syftena 1 och 10 enligt ovan. Om något av dessa inte godkänns, eller om en leverantör inte godkänns, kommer AAM inte att köra pixelbränder eller ange cookies. Det är också bra att veta att många kunder helt enkelt väljer att förse slutanvändaren med ett&quot;allt eller ingenting&quot;-gränssnitt, vilket förstås skulle tillåta eller förbjuda användning av Audience Manager (och andra lösningar från Experience Cloud).
 
