@@ -1,23 +1,23 @@
 ---
 title: Migrera från spårningsserver till rapportservervidarebefordran på servernivå
 description: I den här artikeln och videon visas hur du aktiverar vidarebefordran av analysdata på serversidan till Audience Manager på rapportsvitnivå i stället för på en spårningsservernivå.
-product: audience manager, analytics
+product: audience manager
 feature: Adobe Analytics Integration
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: '"Utvecklare, datatekniker"'
-level: Mellanliggande
+role: Developer, Data Engineer
+level: Intermediate
+exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
 translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
-
 
 # Migrerar från [!UICONTROL Tracking Server] till [!UICONTROL Report Suite]-nivå [!UICONTROL Server-Side Forwarding] {#migrating-from-tracking-server-to-report-suite-level-server-side-forwarding}
 
