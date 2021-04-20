@@ -1,15 +1,15 @@
 ---
 title: Översikt över förbättringar av profilkopplingsregel
 description: I den här videon förklaras förbättringarna av reglerna för profilsammanfogning som släpptes i oktober 2019.
-feature: Sammanfoga profil
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28976.jpg
 kt: 3710
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

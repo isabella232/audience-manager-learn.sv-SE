@@ -1,15 +1,15 @@
 ---
 title: Skapa och konfigurera personbaserade mål
 description: I den här videon får du först information om vad som krävs för att skapa ett personbaserat mål, och sedan visas även hur du konfigurerar ett integrerat konto (länk till partnern, t.ex. Facebook). Sedan guidar vi dig igenom konfigurationen av själva destinationen.
-feature: '"Personbaserade destinationer"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28955.jpg
 kt: 3343
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

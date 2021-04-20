@@ -1,10 +1,10 @@
 ---
 title: Signaler i realtid CDP för Audience Manager
 description: Den här videon är avsedd för användare av Audience Manager som går över till kunddataplattformen i realtid (CDP i realtid) och diskuterar hur signaler (nyckelvärdepar) som du använder i Audience Manager för att skapa egenskaper används i Platform.
-feature: Plattformsintegrering
-topic: Integreringar
-role: Affärsledare, arkitekt, administratör, ledare
-level: Mellanliggande
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332092.jpg
 kt: 7305

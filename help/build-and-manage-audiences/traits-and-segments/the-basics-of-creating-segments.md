@@ -1,15 +1,15 @@
 ---
 title: Grunderna i att skapa segment
 description: Gå igenom fälten i användargränssnittet för att skapa ett segment i Audience Manager.
-feature: 'Segment '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37056.jpg
 kt: 5820
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

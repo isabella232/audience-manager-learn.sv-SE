@@ -1,15 +1,15 @@
 ---
 title: Förstå relaterade målgrupper med överlappningsrapporter
 description: Med överlappningsrapporter kan ni se hur trait- och segment-målgrupper överlappar varandra (samma besökare i flera olika delar eller segment), så att ni vet var ni kan agera med era data för att öka konverteringsgraden eller fokusera på att utöka räckvidden.
-feature: Överlappa rapporter
+feature: Overlap Reports
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330432.jpg
 kt: 6839
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

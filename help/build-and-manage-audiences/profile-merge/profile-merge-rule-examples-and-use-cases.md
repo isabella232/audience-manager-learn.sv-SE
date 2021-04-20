@@ -1,15 +1,15 @@
 ---
 title: Exempel på regler för profilsammanslagning och användningsfall
 description: I den här videon visas exempel på regler för profilsammanfogning och vad de betyder samt de användningsfall som reglerna för profilsammanfogning löser.
-feature: Sammanfoga profil
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28975.jpg
 kt: 3709
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

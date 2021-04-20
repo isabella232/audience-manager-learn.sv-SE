@@ -1,15 +1,15 @@
 ---
 title: Använda bästa praxis SPA sidor när data skickas till AAM
 description: I det här dokumentet beskriver vi flera bästa metoder som du bör följa och vara medveten om när du skickar data från Single Page Applications (SPA) till Adobe Audience Manager (AAM). Det här dokumentet fokuserar på att använda Launch by Adobe, vilket är den rekommenderade implementeringsmetoden.
-feature: Implementeringsgrunder
+feature: Implementation Basics
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: '"Utvecklare, datatekniker"'
-level: Erfaren
+role: "Developer, Data Engineer"
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

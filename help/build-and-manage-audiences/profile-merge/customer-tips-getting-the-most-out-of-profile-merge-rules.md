@@ -1,15 +1,15 @@
 ---
 title: Kundtips - Få ut det mesta ur reglerna för profilsammanslagning
 description: Varun Kalra, Multi-Solution Consultant på Acant, ger tips om hur man väljer och använder PMR (Profile Merge Rules).
-feature: Sammanfoga profil
+feature: Profile Merge
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-pmr.jpg
 kt: 6049
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Skapa ett segment för att utelämna annonser till kunder
 description: När ni skapar marknadsföringskampanjer, särskilt för att nå ut till fler/fler målgrupper, kanske ni vill utesluta era nuvarande kunder så att ni kan marknadsföra dem på ett annat sätt. I den här videon diskuteras alternativ för att skapa segment som ska exkluderas från dem som redan har konverterat till kundstatus.
-feature: 'Segment '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36494.jpg
 kt: 5804
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

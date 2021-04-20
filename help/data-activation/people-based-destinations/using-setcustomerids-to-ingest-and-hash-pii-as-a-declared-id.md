@@ -1,15 +1,15 @@
 ---
 title: Använda setCustomerIDs() till Ingest och Hash PII som deklarerat ID
 description: I den här videon får du lära dig varför och hur du använder Experience Cloud ID-tjänstens setCustomerIDs()-metod för att importera och hash-koda en e-postadress och för att använda den som ett deklarerat ID. Detta kommer inte bara att knyta samman CRM-ID:t och e-postadressen, utan även synkronisera dem med Adobe Audience Manager UUID, dvs. det anonyma enhets-ID:t. Dessa hash-kodade e-postadresser kan sedan skickas till personbaserade mål.
-feature: '"Personbaserade destinationer"'
+feature: "People-based Destinations"
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 thumbnail: 29136.jpg
 kt: 3689
-role: '"Utvecklare, datatekniker"'
-level: Nybörjare
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

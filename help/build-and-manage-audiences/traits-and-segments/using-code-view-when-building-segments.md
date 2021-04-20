@@ -1,15 +1,15 @@
 ---
 title: Använda kodvyn när segment skapas
 description: Lär dig hur du använder kodvyn för att definiera segment, så att du kan skapa komplexa trait-kombinationer, bland annat med hjälp av aktuell frekvens och frekvens.
-feature: 'Segment '
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
 team: ACS
 thumbnail: 38035.jpg
 kt: 5983
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

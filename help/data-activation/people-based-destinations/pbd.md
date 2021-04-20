@@ -1,14 +1,14 @@
 ---
 title: Videofilmer om personbaserade destinationer och Tutorials
 description: Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som rör personbaserade mål.
-feature: '"Personbaserade destinationer"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: Administratör
-level: Nybörjare
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

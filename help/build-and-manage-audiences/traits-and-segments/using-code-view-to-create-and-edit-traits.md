@@ -1,15 +1,15 @@
 ---
 title: Använda kodvyn för att skapa och redigera egenskaper
 description: Lär dig hur du använder kodvyn när du skapar nya egenskaper eller redigerar befintliga egenskaper. Kodvyn är ett alternativ till uttrycksverktyget när du anger ett trait-uttryck.
-feature: 'Traits '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326613.jpg
 kt: 6441
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

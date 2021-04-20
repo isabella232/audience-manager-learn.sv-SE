@@ -1,15 +1,15 @@
 ---
 title: Praktisk segmentdefinition och skapande
 description: I den här videon får du hjälp med att definiera dina segment och sedan bryta ned dem efter de egenskaper/signaler som du behöver för att skapa dem.
-feature: 'Segment '
+feature: Segments
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37391.jpg
 kt: 5821
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

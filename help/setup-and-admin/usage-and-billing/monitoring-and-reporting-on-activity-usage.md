@@ -1,15 +1,15 @@
 ---
 title: Övervakning och rapportering om aktivitetsanvändning
 description: I den här videon går vi igenom hur du använder rapporten om aktivitetsanvändning, inklusive alternativ för visning och hämtning.
-feature: Användning och fakturering
+feature: Usage and Billing
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4168
-topic: Administrering
-role: '"Utvecklare, datatekniker, administratör"'
-level: Nybörjare
+topic: Administration
+role: "Developer, Data Engineer, Administrator"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

@@ -1,7 +1,7 @@
 ---
 title: En tabell med två perceptioner - varumärken jämfört med konsumenter
 description: Idag begravs marknadsförarna i den virrvarr av information som handlar om identitetspraxis. Och bara 37 % av marknadsförarna sa att de är mycket förberedda för en framtid utan cookies, enligt färsk forskning från Adobe och Advis. I det här webbinariet upplyser Adobe om annonsörernas och utgivarnas förståelse och beredskap för en framtid utan cookies, hur deras användningsfall påverkas och hur de uppfattar det bredare ekosystemet.
-feature: Översikt
+feature: Overview
 role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner, Intermediate, Experienced
 doc-type: Event

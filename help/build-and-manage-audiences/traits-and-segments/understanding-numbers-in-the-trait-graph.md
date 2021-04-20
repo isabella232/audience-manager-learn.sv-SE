@@ -1,15 +1,15 @@
 ---
 title: Förstå siffror i Trait Graph
 description: Få tips om hur du kan förstå de rapporterade siffrorna för egenskaper på skärmen med trait-information.
-feature: 'Traits '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 327171.jpg
 kt: 6494
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

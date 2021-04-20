@@ -1,15 +1,15 @@
 ---
 title: Förstå dataflödet i Audience Manager
 description: I den här videon får du hjälp att förstå Adobe Audience Manager genom att beskriva dataflödet in i, genom och ut från programmet.
-feature: Översikt
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5103
 thumbnail: 33888.jpg
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

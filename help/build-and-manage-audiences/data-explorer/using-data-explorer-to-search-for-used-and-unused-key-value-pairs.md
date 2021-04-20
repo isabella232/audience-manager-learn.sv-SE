@@ -1,15 +1,15 @@
 ---
 title: Använda Data Explorer för att söka efter använda och oanvända nyckel-/värdepar i AAM
 description: I det dagliga arbetet i Audience Manager kan du snabbt behöva ta reda på om ett visst drag har skapats från ett visst nyckel/värde-par. Den här videon visar hur du tar reda på mer om Data Explorer.
-feature: 'Data Explorer '
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25148.jpg
 kt: 1760
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

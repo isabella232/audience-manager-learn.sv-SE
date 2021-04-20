@@ -1,10 +1,10 @@
 ---
 title: Understanding Traits in Real-time CDP for Audience Manager Users
 description: När ni går över från Audience Manager till kunddataplattformen i realtid är det bra att förstå skillnaderna i begrepp. Den här videon behandlar egenskaper i Audience Manager och vad motsvarigheten är i realtid CDP.
-feature: Plattformsintegrering
-topic: Integreringar
-role: Affärsledare, arkitekt, administratör, ledare
-level: Mellanliggande
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 331900.jpg
 kt: 7201

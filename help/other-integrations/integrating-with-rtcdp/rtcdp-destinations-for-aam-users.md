@@ -1,10 +1,10 @@
 ---
 title: Förstå destinationer i CDP i realtid för Audience Manager
 description: När ni går från Audience Manager till Customer Data Platform i realtid (CDP i realtid) är det av största vikt att ni känner till destinationerna så att ni vet hur ni kan aktivera era målgruppssegment för målpartners. I den här videon beskrivs de olika måltyperna och var de finns i CDP i realtid.
-feature: Plattformsintegrering
-topic: Integreringar
-role: Affärsledare, arkitekt, administratör, ledare
-level: Mellanliggande
+feature: Platform Integration
+topic: Integrations
+role: Business Practitioner, Architect, Administrator, Leader
+level: Intermediate
 doc-type: feature video
 thumbnail: 332203.jpg
 kt: 7352

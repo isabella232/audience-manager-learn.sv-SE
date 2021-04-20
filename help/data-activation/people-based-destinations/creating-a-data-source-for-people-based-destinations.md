@@ -1,15 +1,15 @@
 ---
 title: Skapa en datakälla för personbaserade mål
 description: I den här videon får du hjälp med att skapa en datakälla i Audience Manager som ska användas för personbaserade destinationer.
-feature: '"Personbaserade destinationer"'
+feature: "People-based Destinations"
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29006.jpg
 kt: 3700
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

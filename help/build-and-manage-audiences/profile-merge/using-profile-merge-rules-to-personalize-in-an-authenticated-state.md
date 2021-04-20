@@ -1,15 +1,15 @@
 ---
 title: Använda profilkopplingsregler för att anpassa i ett autentiserat läge
 description: Ge dina inloggade kunder en personlig upplevelse genom att använda de här inställningarna för profilkopplingsregel.
-feature: Sammanfoga profil
+feature: Profile Merge
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35938.jpg
 kt: 5357
-role: Yrkesverksamma inom affärsverksamhet
-level: Mellanliggande
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

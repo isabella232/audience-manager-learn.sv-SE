@@ -1,16 +1,16 @@
 ---
 title: Audience Manager - Översikt över en datahanteringsplattform
 description: Förstå de största utmaningarna med kanalövergripande personalisering och hur Adobe Audience Manager hanterar kundresan. Lär dig också vilka datatyper som kan registreras i Audience Manager och identifiera de ad-tech-ekosystempartners som är integrerade med Audience Manager.
-feature: Översikt
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5106
 thumbnail: 33894.jpg
-topic: Arkitektur
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+topic: Architecture
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

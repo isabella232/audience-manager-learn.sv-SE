@@ -1,15 +1,15 @@
 ---
 title: Skapa och hantera egenskaper i grupp med BAAAM
 description: När du skapar, redigerar eller tar bort egenskaper kan det vara ineffektivt och tidskrävande att använda gränssnittet för att göra det en i taget. I den här videon får du lära dig hur du använder BAAAM, Audience Manager bulkhanteringsverktyget, för att skapa, redigera och ta bort egenskaper samtidigt, med ett enkelt Microsoft-kalkylblad som ett gränssnitt med REST API.
-feature: 'Traits '
+feature: Traits
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330749.jpg
 kt: 6621
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

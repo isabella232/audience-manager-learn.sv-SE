@@ -1,15 +1,15 @@
 ---
 title: Steg för inmatning av filbaserade data
 description: I den här videon får du hjälp att gå igenom de steg du behöver tänka på när du lägger in offlinedata i Audience Manager, inklusive filnamnskraven för datafilen.
-feature: Onboarding Offline-data
+feature: Onboarding Offline Data
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331008.jpg
 kt: 7027
-role: Yrkesverksamma inom affärsverksamhet
-level: Nybörjare
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

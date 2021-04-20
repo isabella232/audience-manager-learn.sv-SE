@@ -1,15 +1,15 @@
 ---
 title: Exklusive egenskaper i algoritmiska (lookalike) modeller
 description: 'I den här videon får du lära dig hur och varför du ska exkludera specifika (eller grupper av) egenskaper från en algoritmisk (Look-Alike) modell. '
-feature: Algoritmiska modeller
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25569.jpg
 kt: 1759
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Mellanliggande
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

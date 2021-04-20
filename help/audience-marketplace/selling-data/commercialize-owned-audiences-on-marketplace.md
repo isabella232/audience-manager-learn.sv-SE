@@ -8,8 +8,8 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 331721.jpg
 kt: 6802
-role: Yrkesverksamma inom affärsverksamhet
-level: Erfaren
+role: Business Practitioner
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt

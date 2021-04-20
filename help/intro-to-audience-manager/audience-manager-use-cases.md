@@ -1,15 +1,15 @@
 ---
 title: Användningsexempel i Audience Manager
 description: I den här videon identifierar vi fyra vanliga användningsfall för Audience Manager och beskriver de bästa metoderna som är kopplade till dem.
-feature: Översikt
+feature: Overview
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 5145
 thumbnail: 33975.jpg
-role: '"Affärsledare, utvecklare, datatekniker, arkitekt, dataarkitekt, administratör, ledare"'
-level: Nybörjare
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
 workflow-type: tm+mt
