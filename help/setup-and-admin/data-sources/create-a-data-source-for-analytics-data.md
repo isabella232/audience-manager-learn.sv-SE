@@ -2,13 +2,13 @@
 title: Skapa en datakälla för analysdata
 description: I den här videon går vi igenom stegen, inklusive tips och tricks, för att skapa en datakälla i AAM som du kan använda för data som kommer live från en analyslösning, som Adobe Analytics. Detta bör göras innan du skapar egenskaper för analysdata.
 landing-page-description: Lär dig att skapa en datakälla för data som hämtas live från en analyslösning, som Adobe Analytics. Gör detta innan du skapar egenskaper för analysdata.
-feature: Data Sources
+feature: Datakällor
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2928
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
 level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 translation-type: tm+mt
