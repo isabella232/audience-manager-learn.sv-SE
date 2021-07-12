@@ -1,23 +1,22 @@
 ---
 title: Skapande av planeringsegenskaper från analysdata
 description: Lär dig några tips och tricks som kan hjälpa dig när du tänker använda Adobe Analytics-data i dina egenskaper i Audience Manager.
-feature: Traits
+feature: 'Traits '
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 326780.jpg
 kt: 6491
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 37a0958d-794f-4783-8f0b-523293ae875a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '59'
 ht-degree: 1%
 
 ---
-
 
 # Skapande av planeringsegenskaper från analysdata
 
