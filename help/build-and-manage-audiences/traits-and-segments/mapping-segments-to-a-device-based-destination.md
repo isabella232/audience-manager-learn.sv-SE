@@ -1,23 +1,22 @@
 ---
 title: Mappa segment till ett enhetsbaserat mål
 description: Om du vill skicka ut ett målgruppssegment till en DSP eller annan partner måste du mappa segmentet till ett mål i Audience Manager. I den här videon går du igenom mappningen av segment till ett enhetsbaserat mål, även kallat "server till server"-mål.
-feature: Segments
+feature: 'Segment '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36495.jpg
 kt: 5805
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: f732377e-64cf-4d3f-8755-51925ea60924
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
-
 
 # Mappa segment till ett enhetsbaserat mål
 
