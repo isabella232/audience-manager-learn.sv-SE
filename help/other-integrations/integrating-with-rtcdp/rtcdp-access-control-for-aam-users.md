@@ -1,21 +1,20 @@
 ---
 title: Åtkomstkontroll i realtid CDP för Audience Manager
 description: När du går från Audience Manager till kunddataplattformen i realtid vill du veta var användar- och gruppbehörigheter är inställda. I den här videon visas hur åtkomstkontrollen nu fungerar i Adobe Admin Console.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Plattformsintegrering
+topic: Integreringar
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 332091.jpg
 kt: 7304
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: 27e8887b-6e02-452a-8526-ab235446505d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
-
 
 # Åtkomstkontroll i realtid CDP för Audience Manager
 
