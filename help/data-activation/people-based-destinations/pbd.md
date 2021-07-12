@@ -1,22 +1,21 @@
 ---
 title: Videofilmer om personbaserade destinationer och Tutorials
 description: Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som rör personbaserade mål.
-feature: "People-based Destinations"
+feature: '"Personbaserade destinationer"'
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5207
-role: Administrator
+role: Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
-
 
 # [!UICONTROL People-Based Destinations] Videor och Tutorials
 
@@ -32,6 +31,6 @@ Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som
 * [Konfigurera profilkopplingsregler för personbaserade mål](configuring-profile-merge-rules-for-people-based-destinations.md)
 * [Skapa segment för personbaserade destinationer](creating-segments-for-people-based-destinations.md)
 * [Skapa och konfigurera personbaserade mål](create-and-configure-people-based-destinations.md)
-* [Understanding and Configuring the LinkedIn People-Based Destination](understanding-and-configuring-the-linkedin-pbd.md)
+* [Förstå och konfigurera LinkedIn personbaserade mål](understanding-and-configuring-the-linkedin-pbd.md)
 
 Dessa videoklipp kan användas tillsammans med [dokumentationen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
