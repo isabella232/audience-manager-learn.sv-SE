@@ -1,23 +1,22 @@
 ---
 title: Tolka målgruppsidentitetsrapportering
 description: Audience Identity Reporting ger kunderna möjlighet att rapportera om den totala populationen av en egenskap eller definitioner av identitet per person/hushåll för en egenskap eller ett segment. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
-feature: Profile Merge
+feature: Sammanfoga profil
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28973.jpg
 kt: 3694
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 90183636-e205-420b-bbcf-899a779f53a7
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
-
 
 # Tolka [!DNL Audience Identity Reporting]
 
