@@ -1,23 +1,22 @@
 ---
 title: Använda trendrapporter med egenskaper och segment
 description: Lär dig hur du använder trendrapporterna i Audience Manager för att se hur egenskaper och segment fungerar över tid.
-feature: "General & Trend Reports"
+feature: '"General & Trend Reports"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 328280.jpg
 kt: 6646
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 3c1560ae-c893-4055-b9d1-b748beb1218c
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
-
 
 # Använda trendrapporter med egenskaper och segment
 
