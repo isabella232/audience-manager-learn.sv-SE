@@ -8,11 +8,10 @@ activity: implement
 doc-type: tutorial
 team: Technical Marketing
 kt: 1778
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '2322'
 ht-degree: 0%
@@ -29,7 +28,7 @@ När du jämför och kontrasterar dessa två metoder för att hämta in Adobe An
 
 ![klientsida till serversida](assets/client-side_vs_server-side_aam_implementation.png)
 
-### [!DNL Client-side] Implementering av DIL  {#client-side-dil-implementation}
+### [!DNL Client-side] Implementering av DIL {#client-side-dil-implementation}
 
 Om du använder den här metoden för att hämta data från Adobe Analytics till AAM innebär det att du får två träffar från dina webbsidor: En går till [!DNL Analytics] och en går till AAM (efter att ha kopierat [!DNL Analytics]-data på webbsidan. [!UICONTROL Segments] returneras från AAM till sidan, där de kan användas för personalisering osv. Detta betraktas som en &quot;äldre&quot; implementering och rekommenderas inte längre.
 
@@ -40,7 +39,7 @@ Förutom att detta inte följer bästa praxis, är nackdelarna med att använda 
 
 Du bör gå över till en [!UICONTROL Server-Side Forwarding]-metod för AAM implementering.
 
-### [!UICONTROL Server-Side Forwarding] Implementering  {#server-side-forwarding-implementation}
+### [!UICONTROL Server-Side Forwarding] Implementering {#server-side-forwarding-implementation}
 
 Som framgår av bilden ovan kommer en träff från webbsidan till Adobe Analytics. [!DNL Analytics] skickar sedan informationen vidare till AAM i realtid, och besökarna utvärderas till AAM  [!UICONTROL traits] och  [!UICONTROL segments]precis som om träffen hade kommit direkt från sidan.
 
@@ -48,7 +47,7 @@ Som framgår av bilden ovan kommer en träff från webbsidan till Adobe Analytic
 
 Det finns ingen nedtid till att gå över till vidarebefordran på serversidan. Vi rekommenderar att alla som har både Audience Manager och [!DNL Analytics] använder den här implementeringsmetoden.
 
-## Du har två huvudsakliga uppgifter {#you-have-two-main-tasks}
+## Du har två huvuduppgifter {#you-have-two-main-tasks}
 
 Det finns en hel del information på den här sidan, och allt är förstås viktigt. Det **innehåller dock två huvudsaker som du behöver göra**:
 
@@ -79,7 +78,7 @@ Om du använder ett TMS som inte är Adobe eller inget TMS alls implementerar du
 >
 >Läs hela dokumentet innan du implementerar det. Avsnittet&quot;Timing&quot; nedan innehåller viktig information om *när* du bör implementera varje del, inklusive ECID (om den ännu inte implementerats).
 
-### Steg 1: Registrera alternativ som används från DIL-koden {#step-record-currently-used-options-from-dil-code}
+### Steg 1: Registrera alternativ som används från DIL-kod {#step-record-currently-used-options-from-dil-code}
 
 När du är redo att gå från [!DNL Client-Side] DIL till [!UICONTROL Server-Side Forwarding] är det första steget att identifiera allt du gör med DIL-kod, inklusive anpassade inställningar och data som skickas till AAM. Några saker att tänka på:
 
@@ -89,7 +88,7 @@ När du är redo att gå från [!DNL Client-Side] DIL till [!UICONTROL Server-Si
 * containerNSID, uidCookie och andra avancerade alternativ - Anteckna eventuella ytterligare avancerade alternativ som du använder så att du även kan ange dem i SSF-koden.
 * Ytterligare sidvariabler - Om andra variabler skickas till AAM från sidan (utöver de vanliga [!DNL Analytics]-variablerna som hanteras av siteCatalyst.init) måste du anteckna dem så att de kan skickas in via SSF (spoiler alert: via [!DNL contextData]-variabler).
 
-### Steg 2: Uppdaterar koden {#step-updating-the-code}
+### Steg 2: Uppdatera koden {#step-updating-the-code}
 
 I avsnittet ovan som heter Implementeringsalternativ anges flera alternativ för hur/var du implementerar [!UICONTROL Server-Side Forwarding]. För att detta avsnitt ska bli effektivt måste vi dela upp det i dessa avsnitt (med två av dem kombinerade). Gå till den metod i det här avsnittet som bäst beskriver dina behov.
 
@@ -135,7 +134,7 @@ Orsaken till varför timing och beställning spelar roll är hur vidarebefordran
 
 Baserat på dessa tekniska detaljer finns det rekommendationer för&quot;vad du ska göra när&quot;:
 
-#### Om du inte har ECID ännu implementerat {#if-you-do-not-have-ecid-yet-implemented}
+#### Om du INTE har ECID ännu {#if-you-do-not-have-ecid-yet-implemented}
 
 1. Vänd växeln i [!DNL Analytics] för varje [!UICONTROL report suite] som du ska aktivera för SWF
 
