@@ -1,28 +1,27 @@
 ---
 title: Identifiera ditt Audience Manager partner-ID eller underdomän
 description: När du implementerar vissa Experience Cloud-funktioner måste du veta vad ditt Audience Manager "partner-ID" är (kallas ibland även ditt "klient-ID" eller "underdomän"). I den här videon visar vi två platser där du kan få detta ID i användargränssnittet för Audience Manager.
-feature: Implementation Basics
+feature: Implementeringsgrunder
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2359
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d3f4a12d-acc5-47b7-a38a-a6a14152bf3a
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
-
 
 # Identifiera din Audience Manager-underdomän {#how-to-identify-your-audience-manager-partner-id-or-subdomain}
 
 När du implementerar vissa Experience Cloud-funktioner måste du veta vad din Audience Manager `Subdomain` är (kallas ibland `client ID` eller `Partner ID`). I den här videon visar vi två ställen där du kan få den här informationen i användargränssnittet för Audience Manager.
 
-## Tar bort slutet... {#giving-away-the-ending}
+## Gav bort slutet.. {#giving-away-the-ending}
 
 Om du hellre vill hoppa in och hitta den utan att titta på den här korta videon kan du hitta din `Partner Subdomain` på två ställen i användargränssnittet:
 
