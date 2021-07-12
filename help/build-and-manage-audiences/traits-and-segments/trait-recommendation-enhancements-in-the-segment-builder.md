@@ -1,23 +1,22 @@
 ---
 title: Förbättringar av varumärkesrekommendation i segmentbyggaren
 description: I den här videon får du se hur du använder de uppdaterade trait-rekommendationerna i segmentbyggaren, som är Audience Marketplace-rekommendationer. Dessa ger er ytterligare insikter i data från tredje part som kan utöka era segments räckvidd.
-feature: Segments
+feature: 'Segment '
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29363.jpg
 kt: 3937
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 4c792492-48f4-4a3d-8e83-f4eccd270629
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 0%
+source-wordcount: '99'
+ht-degree: 1%
 
 ---
-
 
 # [!DNL Trait Recommendation] Förbättringar i  [!DNL Segment Builder]
 
