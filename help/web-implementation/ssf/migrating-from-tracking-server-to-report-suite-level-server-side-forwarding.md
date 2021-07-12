@@ -8,11 +8,10 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1776
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
 source-wordcount: '580'
 ht-degree: 0%
@@ -27,7 +26,7 @@ I den här artikeln och videon visas hur du aktiverar [!UICONTROL server-side fo
 
 Om du har Adobe Audience Manager OCH Adobe Analytics kan du implementera [!UICONTROL Server-side Forwarding] av [!DNL Analytics]-data för Audience Manager. Det innebär att i stället för att din sida skickar 2 träffar (en till [!DNL Analytics] och en till Audience Manager) kan den skicka en träff till [!DNL Analytics], och [!DNL Analytics] vidarebefordrar dessa data till Audience Manager. Om du redan har detta igång och har det aktiverat/implementerat före oktober 2017 kan din [!UICONTROL server-side forwarding] vara baserad på ditt [!UICONTROL Tracking Server], som måste aktiveras av Adobe kundtjänst eller Adobe Consulting. Från och med oktober 2017 kan du nu konfigurera [!UICONTROL server-side forwarding] själv och göra det på [!UICONTROL Report Suite]-nivå (vidarebefordrar PER [!UICONTROL Report Suite]). Det finns viktiga fördelar med detta, som diskuteras nedan.
 
-## [!UICONTROL Tracking Server] Vidarebefordra  {#tracking-server-forwarding}
+## [!UICONTROL Tracking Server] Vidarebefordra {#tracking-server-forwarding}
 
 Din [!UICONTROL tracking server] är den plats dit du skickar dina [!DNL Analytics]-data, samt den domän där bildbegäran och cookie-filen skrivs. Den ska ställas in i DTM eller [!DNL Experience Platform Launch], eller i filen [!DNL AppMeasurement.js], och ska vanligtvis se ut så här, och din webbplats eller ditt företagsnamn ska ersätta &quot;mysite&quot;:
 
