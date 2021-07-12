@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25521.jpg
 kt: 1782
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: ad725f78-1730-4f42-b185-f868120c7b50
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
-
 
 # Massöverföring av dataanvändning till [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
