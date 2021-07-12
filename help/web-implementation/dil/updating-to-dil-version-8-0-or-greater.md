@@ -1,24 +1,23 @@
 ---
 title: Uppdaterar till Adobe Audience Manager DIL version 8.0 (eller senare)
 description: I den här artikeln beskrivs steg och rekommendationer för hur du uppdaterar Adobe Audience Manager (AAM) Data Integration Library (DIL)-kod till version 8.0 eller senare. Det handlar om implementering på klientsidan, inte vidarebefordran av Adobe Analytics-data på serversidan, och omfattar DTM, Launch by Adobe och implementeringar utan tagghanterarlösning för Adobe.
-feature: DIL Implementation
+feature: Implementering av DIL
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1841
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8c1e6ed5-0f21-427b-a681-0ecb020a0e60
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '1155'
+source-wordcount: '1151'
 ht-degree: 0%
 
 ---
 
-
-# Uppdaterar till Adobe Audience Manager DIL version 8.0 (eller senare) {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
+# Uppdatera till Adobe Audience Manager DIL version 8.0 (eller senare) {#updating-to-adobe-audience-manager-s-dil-version-or-greater}
 
 I den här artikeln beskrivs steg och rekommendationer för hur du uppdaterar Adobe Audience Manager (AAM) [!DNL Data Integration Library] (DIL)-kod till version 8.0 eller senare. Det handlar om implementering på klientsidan, inte vidarebefordran av Adobe Analytics-data på serversidan, och omfattar DTM, Launch by Adobe och implementeringar utan tagghanterarlösning för Adobe.
 
@@ -28,7 +27,7 @@ Med Audience Manager [!DNL Data Integration Library]-kod (DIL) kan du implemente
 
 * Som framgår av beskrivningen av den här sidan omfattar detta endast implementeringar på klientsidan av DIL som används av AAM som inte har Adobe Analytics. Om du har Adobe Analytics bör du använda metoden för vidarebefordran på serversidan för att implementera AAM. Den här metoden beskrivs i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html).
 
-## Duplicera och föråldrade element och metoder {#duplicate-and-deprecated-elements-and-methods}
+## Duplicera och ta bort element och metoder {#duplicate-and-deprecated-elements-and-methods}
 
 I tidigare versioner av DIL och ECID fanns det dubbleringsmetoder (metoder som gör samma funktion i både DIL och ECID), som orsakade förvirring om vilken som användes. Vanligtvis behövde ni använda båda och matcha dem, och det budskapet förmedlades inte på ett bra sätt till våra kunder. Från och med DIL 8.0 har dessa dubblettmetoder och -element tagits bort i DIL och du bör använda ECID-versionen.
 
@@ -78,7 +77,7 @@ Grundläggande steg för uppdatering till DIL 8.0
 1. Lägg till de avancerade alternativen i ECID-verktyget som du har tagit bort från AAM kod.
 1. Publicera ändringarna
 
-## Uppdaterar till DIL 8.0 utan Adobe-tagghanteringslösning {#additional-resources}
+## Uppdaterar till DIL 8.0 utan tagghanteringslösning för Adobe {#additional-resources}
 
 Om du uppdaterar koden direkt på sidan kan du ersätta äldre objekt med nyare objekt, förutom när du behöver flytta metoder/element från DIL till ECID, vilket beskrivs ovan. I så fall ersätter du helt enkelt den gamla metoden/elementet på DIL-platsen med ECID-metoden/-elementet på ECID-platsen.
 
