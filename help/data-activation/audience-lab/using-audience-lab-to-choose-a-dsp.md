@@ -1,23 +1,22 @@
 ---
 title: Använda Audience Lab för att välja en DSP
 description: I den här videon går vi igenom hur du skapar ett Audience Lab-test, så att du kan testa A/B-DSP eller andra AAM för att se vilken som ger bäst avkastning på annonskostnaderna.
-feature: Audience Lab
+feature: 'Audience Lab '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24923.jpg
 kt: 1552
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 03e2617c-eea6-4b64-adc0-1ef996d8d3a5
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
-
 
 # Använda [!UICONTROL Audience Lab] för att välja en DSP {#using-audience-lab-to-choose-a-dsp}
 
