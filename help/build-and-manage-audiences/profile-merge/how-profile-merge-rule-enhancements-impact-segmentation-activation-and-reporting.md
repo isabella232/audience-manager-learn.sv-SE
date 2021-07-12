@@ -1,23 +1,22 @@
 ---
 title: Hur profilkopplingsregel förbättrar effektsegmentering, aktivering och rapportering
 description: Förstå hur förbättringar av profilsammanslagningsregel påverkar totalt intag- och segmentpopulationer i användargränssnittet för Audience Manager
-feature: Profile Merge
+feature: Sammanfoga profil
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28972.jpg
 kt: 3693
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 444a0552-55d9-4362-be14-fba13e8dba76
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
-
 
 # Hur [!UICONTROL Profile Merge Rule] förbättrar påverkan [!UICONTROL Segmentation], aktivering och rapportering
 
