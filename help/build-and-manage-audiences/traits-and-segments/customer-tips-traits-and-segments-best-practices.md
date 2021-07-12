@@ -1,23 +1,22 @@
 ---
 title: Customer Tips - Traits and Segments Best Practices
 description: Matt Vittorioso, Senior Marketing Specialist på Ally Financial, ger tips om hur man hanterar egenskaper och segment.
-feature: Segments
+feature: 'Segment '
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 thumbnail: ugc-segments.jpg
 kt: 6048
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 7001011a-c0e2-4879-89ad-e463dc9f5604
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
-
 
 # Customer Tips - Traits and Segments Best Practices
 
