@@ -1,23 +1,22 @@
 ---
 title: Mappa Audience Manager-segment till mål
 description: Lär dig mer om olika typer av destinationer i Audience Manager och information om hur du mappar segment till respektive måltyp.
-feature: Segments
+feature: 'Segment '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39158.jpg
 kt: 6056
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d633d87e-10fc-43f7-9089-70acc6f6894e
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '53'
 ht-degree: 1%
 
 ---
-
 
 # Mappa Audience Manager-segment till mål
 
