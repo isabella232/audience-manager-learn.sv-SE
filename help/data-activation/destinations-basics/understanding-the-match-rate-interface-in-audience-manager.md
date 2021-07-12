@@ -1,23 +1,22 @@
 ---
 title: Förstå gränssnittet Matcha frekvens i Audience Manager
 description: I den här videon får du hjälp i målgränssnittet med att visa och förklara antalet som är kopplade till matchningsfrekvenser och adresserbara målgrupper.
-feature: Match Rates
+feature: Matchningsfrekvenser
 topics: null
 activity: understand
 doc-type: feature video
 team: Experience League
 thumbnail: 29831.jpg
 kt: 4034
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 903f8329-a434-4938-b190-600fc03b571d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 2%
 
 ---
-
 
 # Förstå gränssnittet Matcha frekvens i Audience Manager
 
