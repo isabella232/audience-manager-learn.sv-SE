@@ -9,14 +9,13 @@ doc-type: feature video
 team: Technical Marketing
 kt: 5037
 thumbnail: 33887.jpg
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9721e178-b92d-427b-8621-9ca1958d934c
-translation-type: tm+mt
-source-git-commit: 499d95472d5dbe5563ebfe527a74a606ad144544
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 1%
 
 ---
 
