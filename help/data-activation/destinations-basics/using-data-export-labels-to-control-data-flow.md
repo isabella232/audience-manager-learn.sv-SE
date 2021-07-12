@@ -1,23 +1,22 @@
 ---
 title: Använda dataexportetiketter för att styra dataflödet
 description: Dataexportetiketter ger dig en mekanism i Audience Manager som styr flödet av olika datatyper/källor, så att du kan uppfylla dina sekretesskrav. Lär dig hur och var du ska ställa in dataexportkontroller och dataexportetiketter för att fungera tillsammans i detta syfte.
-feature: Data Export Controls
+feature: Kontroller vid dataexport
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330322.jpg
 kt: 6836
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 28f250dc-1baf-4286-9129-cdddf6d55227
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '101'
 ht-degree: 2%
 
 ---
-
 
 # Använda [!UICONTROL Data Export Labels] för att kontrollera dataflöde
 
