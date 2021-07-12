@@ -1,23 +1,22 @@
 ---
 title: Öka ROAS genom att använda algoritmiska (lookalike)-modeller i Audience Manager
 description: Den verkliga styrkan hos Audience Manager Look-alike-modellering kommer när ni vill utöka er baslinjepublik mot en ny uppsättning kvalitetsanvändare från datakällor från andra och tredje part. I den här självstudiekursen lär du dig hur du skapar en modell utifrån dessa data.
-feature: Algorithmic Models
+feature: Algoritmiska modeller
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25188.jpg
 kt: 1849
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 6626ae11-8709-4302-9e03-0d55878d2409
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
-
 
 # Öka ROAS genom att använda algoritmisk (Look-Alike) [!UICONTROL Models] i Audience Manager {#increase-roas-by-using-algorithmic-look-alike-models-in-audience-manager}
 
@@ -43,7 +42,7 @@ När du använder Adobe Analytics-händelser för att skapa [!UICONTROL traits] 
 
 **Obs!** I videon ovan förutsätter jag att du har Adobe Analytics. Så är inte fallet. Om du har Google Analytics (GA) har vi en modul som du kan använda för att skicka data till AAM (se [dokumentationen](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)), och om din konverteringsaktivitet på din webbplats skickas till AAM av GA, kan du skapa din konvertering [!UICONTROL trait] utifrån detta. Om du har en annan analyslösning (eller ingen analyslösning) kan du ändå skicka in data till AAM via vår DIL-kod och funktionen `submit` osv. (se [dokumentationen](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Skapa sedan konverteringen [!UICONTROL trait] baserat på data som skickas när konverteringsaktiviteten utförs på webbplatsen.
 
-## Skapa en Look-alike [!UICONTROL Model] från [!UICONTROL Second Party] eller [!UICONTROL Third Party] Data {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
+## Skapa en Look-alike [!UICONTROL Model] från [!UICONTROL Second Party] eller [!UICONTROL Third Party]-data {#create-a-look-alike-model-from-2nd-or-3rd-party-data}
 
 När vi har slutfört stegen ovan är vi nu redo att skapa en algoritmisk (Look-alike) [!UICONTROL Model]. När vi konfigurerar [!UICONTROL model] kommer vi att använda konverteringen [!UICONTROL trait] som bas [!UICONTROL trait] (nyckelbesökare som vi vill duplicera), och vi kommer att använda den aktiverade [!UICONTROL third party]-dataströmmen som vår personpool att hämta från.
 
@@ -53,7 +52,7 @@ När vi har slutfört stegen ovan är vi nu redo att skapa en algoritmisk (Look-
 
 När du skapar algoritmen [!UICONTROL model] i Audience Manager vill vi naturligtvis att [!UICONTROL model] ska vara så effektiv som möjligt. Eftersom [!UICONTROL model] överväger alla [!UICONTROL traits] som medlemmarna i din bas [!UICONTROL trait]/[!UICONTROL segment] är en del av, hjälper det inte [!UICONTROL model] om ALLA personer finns i en [!UICONTROL trait]/[!UICONTROL segment]. Om du har ett supergeneriskt [!UICONTROL traits] (som alla som gick till din webbplats, eller alla som har fått någon annons från dig, osv.) måste du därför se till att det [!UICONTROL data source] som de tillhör INTE ingår i [!UICONTROL data sources] i din [!UICONTROL model]. I den här artikelns användningsexempel är det osannolikt att du skulle göra det, eftersom vi fokuserar på att titta på [!UICONTROL third party]-data för våra nya look-alike, men det är värt att nämnas ändå, och gäller för ALLA dina algoritmiska [!UICONTROL models].
 
-## Skapar en algoritmisk [!UICONTROL Trait] {#creating-an-algorithmic-trait}
+## Skapa en algoritmisk [!UICONTROL Trait] {#creating-an-algorithmic-trait}
 
 Därefter måste vi skapa en algoritmisk [!UICONTROL Trait] så att resultaten från [!UICONTROL model] kan användas. Om du inte skapar en [!UICONTROL trait] är modellen oanvändbar. När [!UICONTROL model] har körts måste du gå till dialogrutan [!UICONTROL trait] och skapa en algoritmisk [!UICONTROL Trait]. I följande video visas några tips.
 
