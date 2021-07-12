@@ -1,23 +1,22 @@
 ---
 title: 'Använda Data Explorer för att validera Trait Creation för dina inbyggda data '
 description: En av de kraftfullaste funktionerna i Audience Manager är möjligheten att lägga in offlinedata och knyta dessa till era onlinedata. I den här videon får du lära dig hur du använder Data Explorer för att validera att du har skapat alla egenskaper som krävs för att utnyttja dessa inbyggda data.
-feature: Data Explorer
+feature: 'Data Explorer '
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25149.jpg
 kt: 2141
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: d52786ba-8d3d-4a52-be11-21b78353b28b
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
-
 
 # Använda [!DNL Data Explorer] för att validera [!UICONTROL Trait]-generering för dina inbyggda data {#using-data-explorer-to-validate-trait-creation-for-your-onboarded-data}
 
