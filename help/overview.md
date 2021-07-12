@@ -1,21 +1,20 @@
 ---
 title: Analysvideor och Tutorials
 description: En samling videor och självstudiekurser för Adobe Analytics.
-feature: Overview
+feature: Översikt
 topics: null
 activity: use
 doc-type: overview
 team: Technical Marketing
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '349'
-ht-degree: 8%
+source-wordcount: '338'
+ht-degree: 9%
 
 ---
-
 
 # Översikt
 
