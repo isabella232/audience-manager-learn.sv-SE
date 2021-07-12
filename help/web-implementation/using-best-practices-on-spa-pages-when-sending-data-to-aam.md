@@ -1,25 +1,24 @@
 ---
 title: Använda bästa praxis SPA sidor när data skickas till AAM
 description: I det här dokumentet beskriver vi flera bästa metoder som du bör följa och vara medveten om när du skickar data från Single Page Applications (SPA) till Adobe Audience Manager (AAM). Det här dokumentet fokuserar på att använda Launch by Adobe, vilket är den rekommenderade implementeringsmetoden.
-feature: Implementation Basics
+feature: Implementeringsgrunder
 topics: spa
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1390
 topic: SPA
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 99ec723a-dd56-4355-a29f-bd6d2356b402
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
 
-
-# Använda bästa praxis på SPA sidor när data skickas till AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
+# Använda bästa praxis SPA sidor när data skickas till AAM {#using-best-practices-on-spa-pages-when-sending-data-to-aam}
 
 I det här dokumentet beskriver vi flera metodtips som du bör följa och vara medveten om när du skickar data från [!UICONTROL Single Page Applications] (SPA) till Adobe Audience Manager (AAM). Det här dokumentet fokuserar på att använda [!UICONTROL Experience Platform Launch], vilket är den rekommenderade implementeringsmetoden.
 
@@ -44,7 +43,7 @@ Två av de vanligaste metoderna för att aktivera en regel i [!DNL Platform Laun
 
 I det här Audience Manager-exemplet ska vi använda en [!UICONTROL Direct Call rule] i [!DNL Launch] för att utlösa träffen som går in i Audience Manager. Som du kommer att se i nästa avsnitt blir detta verkligen användbart genom att ställa in [!UICONTROL Data Layer] på ett nytt värde, så att det kan hämtas av [!UICONTROL Data Element] i [!DNL Platform Launch].
 
-## Demonstrationssida {#demo-page}
+## Demo-sida {#demo-page}
 
 Vi har skapat en liten demosida som visar hur du ändrar ett värde i [!DNL data layer] och skickar den till AAM, som du kan göra på en SPA. Den här funktionen kan utformas för mer komplicerade ändringar. Du hittar den här demosidan [HÄR](https://aam.enablementadobe.com/SPA-Launch.html).
 
