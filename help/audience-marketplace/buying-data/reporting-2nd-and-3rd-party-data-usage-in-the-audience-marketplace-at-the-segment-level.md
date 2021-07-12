@@ -8,16 +8,15 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 25522.jpg
 kt: 1758
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 4d7f4e67-095a-4708-9df3-8216df815810
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
-
 
 # Rapporterar [!UICONTROL Second Party] och [!UICONTROL Third Party] dataanvändning i [!UICONTROL Audience Marketplace] på [!UICONTROL Segment]-nivå {#reporting-nd-and-rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level}
 
