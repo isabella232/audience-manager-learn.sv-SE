@@ -1,21 +1,20 @@
 ---
 title: Förstå datainmatning från första part i CDP för Audience Manager i realtid
 description: I den här videon diskuteras dataöverföring från första part till kunddataplattform i realtid (CDP) för kunder som har använt Adobe Audience Manager. Vi tittar på några av de viktigaste skillnaderna mellan de två produkterna när det gäller dataöverföring och visar hur Audience Manager Data Connector kan användas som en stopplucka tills processerna har flyttats över till CDP i realtid.
-feature: Platform Integration
-topic: Integrations
-role: Business Practitioner, Architect, Administrator, Leader
+feature: Plattformsintegrering
+topic: Integreringar
+role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
 thumbnail: 331276.jpg
 kt: 7128
-translation-type: tm+mt
-source-git-commit: b75efb956338a06db8919a568a0f2ff0b28889fd
+exl-id: bdd8d9b2-92f9-4aa0-a0b7-5e3fb63196eb
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
-
 
 # Förstå datainmatning från första part i CDP för Audience Manager i realtid
 
