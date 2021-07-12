@@ -1,23 +1,22 @@
 ---
 title: Skapa en datakälla för olika enheter och autentisera
 description: När du vill överföra dina CRM-data från första part till Audience Manager för att nå dina kunder bättre, måste du först skapa en datakälla för olika enheter för att lagra CRM-ID:n och data. Detta visar hur du gör det och ställer in metoden setCustomerIDs() i Launch för inloggningar.
-feature: Data Sources
+feature: Datakällor
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 331006.jpg
 kt: 7025
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 467d0793-c08c-4165-9d4a-db9617db6e92
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '126'
 ht-degree: 1%
 
 ---
-
 
 # Skapa en datakälla för olika enheter och autentisera
 
