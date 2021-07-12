@@ -1,24 +1,23 @@
 ---
 title: IP-obefuscation per land i Audience Manager
 description: Audience Manager tillhandahåller självbetjäningsfunktioner i användargränssnittet så att kunderna kan aktivera IP-förfalskning globalt eller per land. I den här videon får du hjälp med konfigurationen.
-feature: "Data Governance & Privacy"
+feature: '"Datastyrning och sekretess"'
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2866
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 103643ff-c006-4111-b469-901271faaf9d
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-
-# IP-feber per land i Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
+# IP-obefuscation per land i Audience Manager {#ip-obfuscation-by-country-in-audience-manager}
 
 Audience Manager tillhandahåller självbetjäningsfunktioner i användargränssnittet så att kunderna kan aktivera IP-förfalskning globalt eller per land. I den här videon får du hjälp med konfigurationen.
 
