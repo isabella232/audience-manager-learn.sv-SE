@@ -1,23 +1,22 @@
 ---
 title: Om måltyper för Audience Manager
 description: I den här videon får du hjälp med de olika destinationstyperna i Adobe Audience Manager och exempel på när du ska använda var och en av dem.
-feature: Destination Basics
+feature: Grundläggande om mål
 topics: null
 activity: understand
 doc-type: presentation
 team: Technical Marketing
 thumbnail: 29839.jpg
 kt: 4016
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
-translation-type: tm+mt
-source-git-commit: a7dc335e75697a7b1720eccdadbb9605fdeda798
+exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
+source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
-
 
 # Förstå Audience Manager [!UICONTROL Destination]-typer
 
