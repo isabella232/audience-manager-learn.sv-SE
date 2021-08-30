@@ -1,7 +1,7 @@
 ---
 title: Videofilmer och Tutorials om profilsammanslagning
 description: Det här avsnittet innehåller videoklipp och självstudiekurser för profilsammanfogningsfunktioner, som regler för profilsammanfogning.
-feature: Sammanfoga profil
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: null
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: c3742871-a52c-4de9-9648-bc3afbf19bf5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -34,4 +34,4 @@ Det här avsnittet innehåller följande videofilmer för [!UICONTROL Profile Me
 * [Tolka målgruppsidentitetsrapportering](interpret-audience-identity-reporting.md)
 * [Understanding Cross-Device Metrics in Audience Manager](understanding-cross-device-metrics-in-audience-manager.md)
 
-Dessa videoklipp kan användas tillsammans med [dokumentationen](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)
+Dessa videoklipp kan användas tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html)

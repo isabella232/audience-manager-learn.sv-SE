@@ -11,9 +11,9 @@ kt: 1776
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 08b81e52-a28a-43e4-a284-df2460a43016
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Om du är osäker på om [!DNL tracking server forwarding] är aktiverat för di
 
 ## [!UICONTROL Report Suite]-Level  [!UICONTROL Server-Side Forwarding] {#report-suite-level-server-side-forwarding}
 
-En av de största fördelarna med att övergå till [!UICONTROL report suite]-vidarebefordran från [!UICONTROL tracking server] är att du nu kan använda &quot;Audience Analytics&quot;, vilket är möjligheten att vidarebefordra Audience Manager [!UICONTROL segments] tillbaka till Adobe Analytics för en detaljerad [!UICONTROL segment]-analys. Denna fantastiska funktion stöds INTE om du fortfarande vidarebefordrar [!UICONTROL tracking server] och inte [!UICONTROL report suite]. Mer information om Audience Analytics finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/).
+En av de största fördelarna med att övergå till [!UICONTROL report suite]-vidarebefordran från [!UICONTROL tracking server] är att du nu kan använda &quot;Audience Analytics&quot;, vilket är möjligheten att vidarebefordra Audience Manager [!UICONTROL segments] tillbaka till Adobe Analytics för en detaljerad [!UICONTROL segment]-analys. Denna fantastiska funktion stöds INTE om du fortfarande vidarebefordrar [!UICONTROL tracking server] och inte [!UICONTROL report suite]. Mer information om Audience Analytics finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/23701/?quality=12)
 

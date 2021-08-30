@@ -1,7 +1,7 @@
 ---
 title: Använda lookalike-modeller för att utöka utsålda lager från era första parts data
 description: I den här självstudiekursen går vi igenom de steg du bör ta för att konfigurera och använda stilliknande modeller, så att du kan skapa nya lookalike-målgrupper och sälja dem som ett tillägg till ditt konverteringssegment.
-feature: Algoritmiska modeller
+feature: Algorithmic Models
 topics: null
 activity: use
 doc-type: feature video
@@ -11,9 +11,9 @@ kt: 1688
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 6820528e-3211-4a1d-be05-50f1292179d2
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '827'
+source-wordcount: '822'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ När du använder händelser för att skapa [!UICONTROL traits] finns det dessut
 
 >[!VIDEO](https://video.tv.adobe.com/v/23431/?quality=12)
 
-**Obs!** I videon ovan förutsätter jag att du har Adobe Analytics. Så är inte fallet. Om du har Google Analytics (GA) har vi en modul som du kan använda för att skicka data till AAM (se [dokumentationen](https://marketing.adobe.com/resources/help/en_US/aam/dil-google-universal-analytics.html)). Om din konverteringsaktivitet på din webbplats skickas till AAM av GA kan du skapa din konverteringsegenskap utifrån detta. Om du har en annan analyslösning (eller ingen analyslösning) kan du ändå skicka in data till AAM via vår DIL-kod och funktionen `submit` osv. (se [dokumentationen](https://marketing.adobe.com/resources/help/en_US/aam/c_dil.html)). Sedan skapar du konverteringsegenskapen utifrån de data som skickas när konverteringsaktiviteten utförs på webbplatsen.
+**Obs!** I videon ovan förutsätter jag att du har Adobe Analytics. Så är inte fallet. Om du har Google Analytics (GA) har vi en modul som du kan använda för att skicka data till AAM (se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-overview.html)). Om din konverteringsaktivitet på din webbplats skickas till AAM av GA kan du skapa din konverteringsegenskap utifrån detta. Om du har en annan analyslösning (eller ingen analyslösning) kan du ändå skicka in data till AAM via vår DIL-kod och funktionen `submit` osv. (se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/dil-api/dil-modules.html)). Sedan skapar du konverteringsegenskapen utifrån de data som skickas när konverteringsaktiviteten utförs på webbplatsen.
 
 ## Skapa en Look-Alike [!UICONTROL Model] från [!UICONTROL First Party]-data {#creating-a-look-alike-model-from-first-party-data}
 

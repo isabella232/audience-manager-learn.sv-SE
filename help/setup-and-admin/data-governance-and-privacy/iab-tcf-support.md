@@ -10,9 +10,9 @@ kt: 5027
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 04b4e786-0457-4dcc-bcf9-a79eda67bb2e
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1120'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ En av fördelarna med IAB TCF är att de standardsyften som anges ovan antaglige
 
 För att Audience Manager ska kunna godkännas (dvs. för att kunna översätta IAB-syften för deltagande för att ge AAM en ja-röst) måste slutanvändaren ge sitt samtycke för syftena 1 och 10 enligt ovan. Om något av dessa inte godkänns, eller om en leverantör inte godkänns, kommer AAM inte att köra pixelbränder eller ange cookies. Det är också bra att veta att många kunder helt enkelt väljer att förse slutanvändaren med ett&quot;allt eller ingenting&quot;-gränssnitt, vilket förstås skulle tillåta eller förbjuda användning av Audience Manager (och andra lösningar från Experience Cloud).
 
-Det finns en del bra information i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/aam/aam-iab-plugin.html) om hur Audience Manager Plug-in för IAB TCF-flödet gäller både för Publisher och Advertiser.
+Det finns en del bra information i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/data-privacy/consent-management/aam-iab-plugin.html?lang=en) om hur Audience Manager Plug-in för IAB TCF-flödet gäller både för Publisher och Advertiser.
 
 ## IAB: Skickar samtycke nedåt {#iab-sending-consent-downstream}
 

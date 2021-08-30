@@ -11,9 +11,9 @@ kt: 1778
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: bcb968fb-4290-4f10-b1bb-e9f41f182115
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2318'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ Vi tittar närmare på dessa nedan i avsnittet Uppdatera koden.
 
 Den viktigaste förutsättningen för att gå till [!UICONTROL Server-Side Forwarding] är att Experience Cloud ID-tjänsten är implementerad. Detta är enklast om du använder Experience Platform Launch, och då installerar du bara ECID-tillägget så gör det resten.
 
-Om du använder ett TMS som inte är Adobe eller inget TMS alls implementerar du ECID för att köra **före** några andra Adobe-lösningar. Mer information finns i [ECID-dokumentationen](https://marketing.adobe.com/resources/help/en_US/mcvid/). Den enda andra förutsättningen är kodversioner, så när du bara använder de senaste versionerna av koden i följande steg kommer du att klara dig.
+Om du använder ett TMS som inte är Adobe eller inget TMS alls implementerar du ECID för att köra **före** några andra Adobe-lösningar. Mer information finns i [ECID-dokumentationen](https://experienceleague.adobe.com/docs/id-service/using/home.html). Den enda andra förutsättningen är kodversioner, så när du bara använder de senaste versionerna av koden i följande steg kommer du att klara dig.
 
 >[!NOTE]
 >
@@ -191,4 +191,4 @@ Om du inte gör [!UICONTROL server-side forwarding] av data från [!DNL Analytic
 
 ![false success](assets/falsesuccess.png)
 
-Mer information om [!UICONTROL Server-Side Forwarding] finns i [dokumentationen](https://marketing.adobe.com/resources/help/en_US/reference/ssf.html).
+Mer information om [!UICONTROL Server-Side Forwarding] finns i [dokumentationen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
