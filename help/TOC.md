@@ -4,8 +4,7 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-translation-type: tm+mt
-source-git-commit: 92185bb82356eab8dfb53f79fdbb8b760e313bc3
+source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
 workflow-type: tm+mt
 source-wordcount: '923'
 ht-degree: 2%
@@ -45,7 +44,7 @@ ht-degree: 2%
    + DIL (Data Integration Library) {#dil}
       + [Uppdaterar till DIL version 8.0 (eller senare)](web-implementation/dil/updating-to-dil-version-8-0-or-greater.md)
    + SSF (Server-Side Forwarding) {#ssf}
-      + [Implementera webbplatser med Launch](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [Implementera webbplatser med Launch](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=en)
       + [Migrera implementeringen av din webbplats AAM från Client-Side DIL till Vidarebefordring på serversidan](web-implementation/ssf/migrating-your-site-implementation-from-client-side-dil-to-server-side-forwarding.md)
       + [Migrera från spårningsserver till rapportservervidarebefordran på servernivå](web-implementation/ssf/migrating-from-tracking-server-to-report-suite-level-server-side-forwarding.md)
    + [Använda tagghanterare för att implementera Audience Manager](web-implementation/using-tag-managers-to-implement-audience-manager.md)
@@ -55,9 +54,9 @@ ht-degree: 2%
    + [Formatering och inmatning av filbaserade data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Steg för inmatning av filbaserade data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobilimplementering {#mobile-implementation}
-   + [Implementera i iOS Swift Apps](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-   + [Implementera iOS-målappar](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-   + [Implementera i Android-appar](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+   + [Implementera i iOS Swift Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Implementera iOS-målappar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
    + Köpa data {#buying-data}
       + [Rapportera dataanvändning från andra och tredje part i Audience Marketplace på segmentnivå](audience-marketplace/buying-data/reporting-2nd-and-3rd-party-data-usage-in-the-audience-marketplace-at-the-segment-level.md)
@@ -101,8 +100,8 @@ ht-degree: 2%
       + [Förstå siffror i segmentdiagrammet](build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-segment-graph.md)
       + [Customer Tips - Traits and Segments Best Practices](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algoritmiska modeller {#algorithmic-models}
-      + [Förstå  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Konfigurera och rapportera  [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Förstå [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
+      + [Konfigurera och rapportera på [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Skapa en modell som ser ut som den första parten](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exklusive egenskaper i algoritmiska (lookalike) modeller](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Öka ROAS genom att använda algoritmiska (lookalike)-modeller](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
@@ -140,7 +139,7 @@ ht-degree: 2%
       + [Konfigurera profilkopplingsregler för personbaserade mål](data-activation/people-based-destinations/configuring-profile-merge-rules-for-people-based-destinations.md)
       + [Skapa segment för personbaserade destinationer](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [Skapa och konfigurera personbaserade mål](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
-      + [Understanding and Configuring the LinkedIn People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
+      + [Förstå och konfigurera LinkedIn personbaserade mål](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
       + [Understanding and Configuring the Google Customer Match People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Rapporter {#reports}
    + [Använda allmänna rapporter med egenskaper och segment](reports/using-general-reports-with-traits-and-segments.md)
