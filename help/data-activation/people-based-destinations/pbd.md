@@ -10,9 +10,9 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
+source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som
 * [Skapa och konfigurera personbaserade mål](create-and-configure-people-based-destinations.md)
 * [Förstå och konfigurera LinkedIn personbaserade mål](understanding-and-configuring-the-linkedin-pbd.md)
 
-Dessa videoklipp kan användas tillsammans med [dokumentationen](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Dessa videoklipp kan användas tillsammans med [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
