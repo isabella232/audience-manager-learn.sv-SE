@@ -1,7 +1,7 @@
 ---
 title: Videofilmer om personbaserade destinationer och Tutorials
 description: Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som rör personbaserade mål.
-feature: '"Personbaserade destinationer"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -10,16 +10,16 @@ kt: 5207
 role: Admin
 level: Beginner
 exl-id: 80c37014-896f-4ed1-8673-a135ef3063d5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 3b16dc825d620119c5b112b1b2a91292133f817f
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL People-Based Destinations] Videor och Tutorials
 
-[!UICONTROL People-Based Destinations] gör det möjligt att använda segmentering på online- och offlinedata för att skapa målgruppssegment baserat på hashas-identifierare, som e-postadresser eller telefonnummer. Sedan kan du skicka dessa segment till sociala plattformar som [!DNL Facebook] eller [!DNL LinkedIn], där du kan rikta in dig på målgruppen.
+[!UICONTROL People-Based Destinations] gör det möjligt att använda segmentering på online- och offlinedata för att skapa målgruppssegment baserat på hashas-identifierare, t.ex. e-postadresser. Sedan kan du skicka dessa segment till sociala plattformar som [!DNL Facebook] eller [!DNL LinkedIn], där du kan rikta in dig på målgruppen.
 
 Det här avsnittet innehåller videoklipp och självstudiekurser för ämnen som rör [!UICONTROL People-Based Destinations]. De har listats i den här ordningen utifrån syfte, när du går igenom flödet/processen för att konfigurera [!UICONTROL People-Based Destinations]:
 
