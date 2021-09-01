@@ -8,9 +8,9 @@ kt: 4016
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8e4026fb-6ee7-4f42-afb2-7600c87744d6
-source-git-commit: 4d4c12e9f9a33760a89460258c3802fcf3a4e22b
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,6 @@ Den här videon visar de olika typerna av [!UICONTROL destinations] i Adobe Audi
 
 >[!VIDEO](https://video.tv.adobe.com/v/29839/?quality=12)
 
-Du kan hämta en lista över server-till-server [!UICONTROL destination] partners [HERE](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/gdpr/assets/AAM-Partners-October2019.xlsx).
+En lista över tillgängliga server-till-server-målpartners finns i [Audience Manager Device-based Destinations documentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/device-based/device-based-destinations-list.html).
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).
+Mer information om destinationer finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/destinations.html).

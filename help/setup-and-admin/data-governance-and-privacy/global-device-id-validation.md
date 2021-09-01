@@ -10,10 +10,9 @@ kt: 2977
 role: Developer, Data Engineer, Architect
 level: Experienced
 exl-id: 0ff3f123-efb3-4124-bdf9-deac523ef8c9
-translation-type: tm+mt
-source-git-commit: 256edb05f68221550cae2ef7edaa70953513e1d4
+source-git-commit: a2bf5c6bdc7611cd6bc5d807e60ac6aa22d5c176
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '778'
 ht-degree: 1%
 
 ---
@@ -71,20 +70,20 @@ Följande är de globala ID-pooler för enhetsannonsering som för närvarande k
   </tr>
 </table>
 
-## Ställa in en Advertising Identifier i appen {#setting-an-advertising-identifier-in-the-app}
+## Ställa in en annonsidentifierare i appen {#setting-an-advertising-identifier-in-the-app}
 
 Att ange annonser-ID i appen är i själva verket en tvåstegsprocess, att först hämta annonser-ID:t och sedan skicka det till Experience Cloud. Länkar finns nedan för att utföra dessa steg.
 
 1. Hämta ID
    1. [!DNL Apple] information om  [!DNL advertising ID] finns  [här](https://developer.apple.com/documentation/adsupport/asidentifiermanager).
-   1. Viss information om hur du anger [!DNL advertiser ID] för [!DNL Android]-utvecklare finns [HÄR](http://www.androiddocs.com/google/play-services/id.html).
+   1. Viss information om hur du anger [!DNL advertiser ID] för [!DNL Android]-utvecklare finns [HÄR](http://android.cn-mirrors.com/google/play-services/id.html).
 1. Skicka den till Experience Cloud med metoden [!DNL setAdvertisingIdentifier] i SDK
    1. Information om hur du använder `setAdvertisingIdentifier` finns i [dokumentationen](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/identity/identity-api-reference#set-an-advertising-identifier) för både [!DNL iOS] och [!DNL Android].
 
 `// iOS (Swift) example for using setAdvertisingIdentifier:`
 `ACPCore.setAdvertisingIdentifier([AdvertisingId]) // ...where [AdvertisingId] is replaced by the actual advertising ID`
 
-## DCS-felmeddelanden för felaktiga ID:n {#dcs-error-messaging-for-incorrect-ids}
+## Felmeddelanden för DCS för felaktiga ID:n  {#dcs-error-messaging-for-incorrect-ids}
 
 När ett felaktigt ID för global enhet (IDFA, GAID osv.) skickas i realtid till Audience Manager returneras en felkod vid träffen. Följande är ett exempel på ett fel som returneras eftersom ID:t skickas som ett [!DNL Apple IDFA], som bara ska innehålla versaler, och ändå finns det ett gemen x i ID:t.
 
@@ -92,7 +91,7 @@ När ett felaktigt ID för global enhet (IDFA, GAID osv.) skickas i realtid till
 
 Se [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#api-and-sdk-code) för en lista över felkoder.
 
-## Onboarding Global Device ID {#onboarding-global-device-ids}
+## Onboarding-ID för global enhet {#onboarding-global-device-ids}
 
 Förutom att skicka globala enhets-ID:n i realtid kan du även överföra data från [!DNL onboard] till ID:n. Den här processen är densamma som när du registrerar data mot dina kund-ID:n (vanligtvis via nyckel/värde-par), men du använder bara rätt ID för datakälla så att data tilldelas till det globala enhets-ID:t. Dokumentation om introduktionsprocessen finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en#implementation-integration-guides). Kom ihåg att använda det globala [!UICONTROL data source]-ID:t, beroende på vilken plattform du använder.
 
