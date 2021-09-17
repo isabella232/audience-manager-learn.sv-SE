@@ -4,9 +4,9 @@ user-guide-description: En samling videor och självstudiekurser för Adobe Anal
 breadcrumb-title: Självstudiekurser för Audience Manager
 breadcrumb-url: /docs/audience-manager-learn/tutorials/overview.html
 solution: Audience Manager
-source-git-commit: 2a831a60d68698d9b824f54e3d88ba540b57d83e
+source-git-commit: 25e6244eabc2d9b327077bfa334a9bcafb7a0745
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '970'
 ht-degree: 2%
 
 ---
@@ -25,9 +25,11 @@ ht-degree: 2%
    + Värderealisering {#value-realization}
       + [Mäta avkastningen i ett fall där kunden inte kan använda produkten](intro-to-audience-manager/value-realization/measuring-roi-in-a-customer-suppression-use-case.md)
 + Branschnyheter och trender {#industry}
-   + [Framtiden för datahantering och den föränderliga miljön](industry/the-future-of-data-management-and-the-changing-environment.md)
-   + [10 saker att tänka på när det gäller ansvarstagande kunddatahantering](industry/ten-considerations-for-responsible-customer-data-management.md)
-   + [En tabell med två perceptioner - varumärken jämfört med konsumenter](industry/brands-vs-consumers.md)
+   + [Framtiden för datahantering och den föränderliga miljön](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html)
+   + [10 saker att tänka på när det gäller ansvarstagande kunddatahantering](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/ten-considerations-for-responsible-customer-data-management.html)
+   + [En tabell med två perceptioner - varumärken jämfört med konsumenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
+   + [Utvecklar ditt högteknologiska målgruppscenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
+   + [Skapa bättre upplevelser med kundprofiler](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
 + Konfigurera och administrera {#setup-and-admin}
    + Datakällor {#data-sources}
       + [Skapa en datakälla för analysdata](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
