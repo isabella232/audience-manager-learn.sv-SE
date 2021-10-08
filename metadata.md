@@ -1,28 +1,20 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: audience manager
 type: Tutorial
 feature-set: Audience Manager
-solution-title: Audience Manager
-solution-hub-url: https://helpx.adobe.com/se/support/audience-manager.html
-solution-image: assets/aam-icon-24.png
-getting-started-title: Komma igång
-getting-started-url: https://helpx.adobe.com/audience-manager/get-started.html
-tutorials-title: Tutorials
-tutorials-url: https://guided.adobe.com/#recommended/solutions/audience-manager
 mini-toc-levels: 2
 git-repo: https://git.corp.adobe.com/AdobeDocs/audience-manager-learn.sv-SE
 index: true
-translation-type: tm+mt
-source-git-commit: fad76124632e4a02f745375023ae49cf8d6ec1ae
+source-git-commit: 17276b61f22448a073d518755ae2ff32253bf23c
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Metadata för intern användning
+# Metadata for internal use
 
 Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-filer för användarhandboken i svaret. Om du vill ändra metadata.md-innehåll för en användarhandbok gör du det i en TOC.md-fil.
 
@@ -30,10 +22,10 @@ Filen metadata.md innehåller metadata på postnivå som skickas till TOC.md-fil
 |--- |--- |
 | solution-title | Används i artikelrubriken som länk |
 | solution-hub-url | Öppnar navet för hjälpfunktioner |
-| solution-icon | Visar lösningsikonen bredvid lösningsrubriken. Inte implementerat ännu |
+| solution-icon | Displays solution icon next to solution title. Inte implementerat ännu |
 | getting-started-url | Länk till hjälpsidan Komma igång |
-| tutorials-url | Länka till videosjälvstudiekurser - antingen hjälpstudiekurser eller självstudiekurser på engelska |
-| mini-toc-nivåer | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
+| tutorials-url | Link to video tutorials--either helpx tutorials or KT tutorials |
+| mini-toc-levels | Anger antalet rubriknivåer som visas i den högra listen. standard är 2 |
 | git-repo | Anger platsen för den överordnad rapporten för intern användning |
 
 I filen TOC.md
