@@ -3,7 +3,8 @@ user-guide-title: Adobe Audience Manager Tutorials
 user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
 breadcrumb-title: Självstudiekurser för Audience Manager
 solution: Audience Manager
-source-git-commit: 4062fdad47ca68002e901cbc54fd4a79a70e645f
+type: Tutorial
+source-git-commit: 232402478860d25b701c35c6ce710f4cbba6143d
 workflow-type: tm+mt
 source-wordcount: '970'
 ht-degree: 2%
@@ -14,7 +15,7 @@ ht-degree: 2%
 # Självstudiekurser för Audience Manager {#tutorials}
 
 + [Översikt](overview.md)
-+ Introduktion till Audience Manager {#intro-to-audience-manager}
++ Intro till Audience Manager {#intro-to-audience-manager}
    + [Hur en datahanteringsplattform kan förändra ert företag](intro-to-audience-manager/how-a-dmp-can-change-your-business.md)
    + [Audience Manager - Översikt över en datahanteringsplattform](intro-to-audience-manager/audience-manager-overview-of-a-dmp.md)
    + [Användningsexempel i Audience Manager](intro-to-audience-manager/audience-manager-use-cases.md)
@@ -29,7 +30,7 @@ ht-degree: 2%
    + [En tabell med två perceptioner - varumärken jämfört med konsumenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/brands-vs-consumers.html)
    + [Utvecklar ditt högteknologiska målgruppscenter](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/evolving-your-audience-center-of-excellence.html)
    + [Skapa bättre upplevelser med kundprofiler](https://experienceleague.adobe.com/docs/platform-learn/tutorials/industry/building-better-experiences-with-customer-profiles.html)
-+ Konfigurera och administrera {#setup-and-admin}
++ Installation och administration {#setup-and-admin}
    + Datakällor {#data-sources}
       + [Skapa en datakälla för analysdata](setup-and-admin/data-sources/create-a-data-source-for-analytics-data.md)
       + [Skapa en datakälla för olika enheter och autentisera](setup-and-admin/data-sources/creating-a-cross-device-data-source-and-authenticating.md)
@@ -55,8 +56,8 @@ ht-degree: 2%
    + [Formatering och inmatning av filbaserade data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Steg för inmatning av filbaserade data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
 + Mobilimplementering {#mobile-implementation}
-   + [Implementera i iOS Swift Apps](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
-   + [Implementera iOS-målappar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
+   + [Implementera i iOS Swift-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
+   + [Implementera i iOS Objective-C-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementera i Android-appar](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)
 + Audience Marketplace {#audience-marketplace}
    + Köpa data {#buying-data}
@@ -102,12 +103,12 @@ ht-degree: 2%
       + [Customer Tips - Traits and Segments Best Practices](build-and-manage-audiences/traits-and-segments/customer-tips-traits-and-segments-best-practices.md)
    + Algoritmiska modeller {#algorithmic-models}
       + [Förstå [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.md)
-      + [Konfigurera och rapportera på [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
+      + [Konfigurera och rapportera [!UICONTROL Predictive Audiences]](build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.md)
       + [Skapa en modell som ser ut som den första parten](build-and-manage-audiences/algorithmic-models/creating-a-first-party-look-alike-model.md)
       + [Exklusive egenskaper i algoritmiska (lookalike) modeller](build-and-manage-audiences/algorithmic-models/excluding-traits-in-algorithmic-look-alike-models.md)
       + [Öka ROAS genom att använda algoritmiska (lookalike)-modeller](build-and-manage-audiences/algorithmic-models/increase-roas-by-using-algorithmic-look-alike-models.md)
       + [Använda lookalike-modeller för att utöka utsålda lager från era första parts data](build-and-manage-audiences/algorithmic-models/using-look-alike-models-to-extend-sold-out-inventory-from-your-1st-party-data.md)
-   + Profilsammanfogning {#profile-merge}
+   + Sammanfoga profil {#profile-merge}
       + [Regler för profilsammanslagning](build-and-manage-audiences/profile-merge/profile-merge.md)
       + [Översikt över regler för profilsammanslagning](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)
       + [Exempel på regler för profilsammanslagning och användningsfall](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)
@@ -122,7 +123,7 @@ ht-degree: 2%
       + [Understanding Cross-Device Metrics in Audience Manager](build-and-manage-audiences/profile-merge/understanding-cross-device-metrics-in-audience-manager.md)
       + [Kundtips - Få ut det mesta ur reglerna för profilsammanslagning](build-and-manage-audiences/profile-merge/customer-tips-getting-the-most-out-of-profile-merge-rules.md)
 + Dataaktivering {#data-activation}
-   + Grundläggande om destinationer {#destinations-basics}
+   + Grunderna för destinationer {#destinations-basics}
       + [Om måltyper för Audience Manager](data-activation/destinations-basics/understanding-audience-manager-destination-types.md)
       + [Förstå matchningsfrekvenser](data-activation/destinations-basics/understanding-match-rates.md)
       + [Förstå gränssnittet Matcha frekvens](data-activation/destinations-basics/understanding-the-match-rate-interface-in-audience-manager.md)
@@ -141,14 +142,14 @@ ht-degree: 2%
       + [Skapa segment för personbaserade destinationer](data-activation/people-based-destinations/creating-segments-for-people-based-destinations.md)
       + [Skapa och konfigurera personbaserade mål](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)
       + [Förstå och konfigurera LinkedIn personbaserade mål](data-activation/people-based-destinations/understanding-and-configuring-the-linkedin-pbd.md)
-      + [Understanding and Configuring the Google Customer Match People-Based Destination](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
+      + [Förstå och konfigurera Google kundmatchning - personbaserat mål](data-activation/people-based-destinations/understanding-and-configuring-the-google-customer-match-pbd.md)
 + Rapporter {#reports}
    + [Använda allmänna rapporter med egenskaper och segment](reports/using-general-reports-with-traits-and-segments.md)
    + [Använda trendrapporter med egenskaper och segment](reports/using-trended-reports-with-traits-and-segments.md)
    + [Förstå relaterade målgrupper med överlappningsrapporter](reports/understand-related-audiences-with-overlap-reports.md)
    + [Använda Audience Optimization-rapporter för att förstå medieprestanda](reports/using-audience-optimization-reports-to-understand-media-performance.md)
 + Andra integreringar {#other-integrations}
-   + Integrera med kunddataplattformen {#integrating-with-rtcdp} i realtid
+   + Integrera med Real-time Customer Data Platform {#integrating-with-rtcdp}
       + [Infoga data med Adobe Audience Manager dataanslutning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
       + [Förstå datainmatning från första part i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-1pd-ingestion-for-aam-users.md)
       + [Förstå inmatning av webbdata i CDP i realtid](other-integrations/integrating-with-rtcdp/rtcdp-web-ingestion-for-aam-users.md)
