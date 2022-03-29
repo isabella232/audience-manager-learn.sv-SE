@@ -1,6 +1,6 @@
 ---
-title: Övervakning och rapportering om aktivitetsanvändning
-description: I den här videon går vi igenom hur du använder rapporten om aktivitetsanvändning, inklusive alternativ för visning och hämtning.
+title: Övervaka och rapportera aktivitetsanvändning
+description: I den här videon får du lära dig hur du använder rapporten Aktivitetsanvändning, inklusive alternativ för visning och hämtning.
 feature: Usage and Billing
 topics: null
 activity: use
@@ -11,17 +11,17 @@ topic: Administration
 role: Developer, Data Engineer, Admin
 level: Beginner
 exl-id: 1a71ad6e-6583-4228-8a40-59501cb414b0
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: d4874d9f6d7a36bb81ac183eb8b853d893822ae0
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# Övervakning och rapportering om aktivitetsanvändning
+# Övervaka och rapportera aktivitetsanvändning
 
-I den här videon går vi igenom hur du använder [!DNL Activity Usage Report], inklusive alternativ för visning och hämtning.
+I den här videon går vi igenom hur du använder [!UICONTROL Activity Usage Report], inklusive visning och nedladdning.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31443/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html).

@@ -1,7 +1,7 @@
 ---
-title: Använda kontrollpanelen Signals för att snabbt visa de viktigaste tillgängliga signaturerna
-description: Genom att använda inbyggda och anpassade tabeller på kontrollpanelen Signals i Datan Explorer kan du snabbt se de senaste data som kommer in i Audience Manager och till och med klicka dig igenom för att skapa egenskaper efter behov. Välkommen till ditt nya, effektivare arbetsflöde!
-feature: 'Data Explorer '
+title: Använd kontrollpanelen Signaler för att snabbt visa de viktigaste tillgängliga signalerna
+description: Lär dig hur du använder inbyggda och anpassade tabeller på panelen Signals Dashboard i Datan Explorer. Du kan snabbt se de senaste data som kommer in i Audience Manager och till och med klicka dig igenom för att skapa egenskaper efter behov. Välkommen till ditt nya, effektivare arbetsflöde!
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 2140
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f7d50b2f-52a3-465d-89ba-337a10c26a1c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '171'
-ht-degree: 1%
+source-wordcount: '176'
+ht-degree: 0%
 
 ---
 
-# Använda kontrollpanelen [!UICONTROL Signals] för att snabbt visa de översta tillgängliga [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
+# Använd [!UICONTROL Signals Dashboard] för att snabbt visa de viktigaste tillgängliga signalerna [!UICONTROL Signals] {#using-the-signals-dashboard-to-quickly-view-top-available-signals}
 
-Genom att använda inbyggda och anpassade tabeller på kontrollpanelen [!UICONTROL Signals] i [!DNL Data Explorer] kan du snabbt se de senaste data som kommer in i Audience Manager och till och med klicka dig igenom för att skapa egenskaper efter behov. Välkommen till ditt nya, effektivare arbetsflöde!
+Genom att använda inbyggda och anpassade tabeller på [!UICONTROL Signals Dashboard] in [!DNL Data Explorer]kan du snabbt se de senaste data som kommer in i Audience Manager och till och med klicka dig igenom för att skapa egenskaper efter behov. Välkommen till ditt nya, effektivare arbetsflöde!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25151/?quality=12)
 
-När du klickar igenom till [!DNL Data Explorer], AKA-appen [!UICONTROL Signals], visas en standardinstrumentpanel för de översta [!UICONTROL signals] samt nya [!UICONTROL signals]. Förutom dessa två standardinställningar kan du spara sökningar och lägga till dem på kontrollpanelen, så att du snabbt kan visa dina viktigaste data direkt på funktionens startsida.
+När du klickar dig fram till [!UICONTROL Data Explorer], AKA the [!UICONTROL Signals] visas en standardinstrumentpanel för de översta signalerna samt nya signaler. Förutom dessa två standardinställningar kan du spara sökningar och lägga till dem på kontrollpanelen, så att du snabbt kan visa dina viktigaste data direkt på funktionens startsida.
 
-Mer information om [!DNL Data Explorer] finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Mer information om [!UICONTROL Data Explorer], besök [Data Explorer - Översikt, Fördelar och Användningsexempel](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/data-explorer-overview.html?lang=en)).

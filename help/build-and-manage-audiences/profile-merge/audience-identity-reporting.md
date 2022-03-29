@@ -1,6 +1,6 @@
 ---
 title: Målgruppsidentitetsrapportering
-description: Audience Identity Reporting ger kunderna möjlighet att rapportera om den totala populationen av en egenskap eller definitioner av identitet per person/hushåll för en egenskap eller ett segment. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
+description: Läs mer om rapportering av målgruppsidentitet. Denna typ av rapportering i Audience Manager gör det möjligt att rapportera om den totala populationen av en egenskap eller ett segment per person eller hushållens definitioner av identitet.
 feature: profile merge
 topics: null
 audience: marketer
@@ -9,17 +9,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 27977.jpg
 kt: 3202
-translation-type: tm+mt
-source-git-commit: ba76f9437e5d8f0495e4f2dfafb90cbf2da6454f
+source-git-commit: 124f03208f2b4e3b109b3f02a2d3d59210da5cc7
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 1%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
 
-# [!DNL Audience Identity] Rapporter
+# Målgruppsidentitetsrapportering
 
-[!DNL Audience Identity] Rapportering ger kunderna möjlighet att rapportera om den totala populationen av en identitet,  [!UICONTROL trait] eller  [!UICONTROL segment] per person/hushåll. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
+Rapportering av målgruppsidentitet ger kunderna möjlighet att rapportera om den totala populationen av en egenskap eller ett segment efter person-/hushållsdefinitioner av identitet. I den här videon ser du hur det ser ut i Audience Manager-rapporterna.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27977/?quality=12)

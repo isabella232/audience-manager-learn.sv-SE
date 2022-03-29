@@ -1,7 +1,7 @@
 ---
 title: Konfigurera profilkopplingsregler för personbaserade mål
 description: I den här videon får du lära dig hur du ställer in en profilkopplingsregel som ska användas för personbaserade mål, inklusive när du ska använda ett helt nytt alternativ för olika enheter.
-feature: '"Personbaserade destinationer"'
+feature: People-based Destinations
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,15 +11,15 @@ kt: 3342
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 513af3d9-583a-4619-867e-f0ac847ca9b5
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Konfigurerar [!UICONTROL Profile Merge Rules] för [!UICONTROL People-Based Destinations]
+# Konfigurera [!UICONTROL Profile Merge Rules] för personbaserade destinationer
 
-I den här videon får du lära dig hur du ställer in ett [!UICONTROL Profile Merge Rule]-värde som ska användas för [!UICONTROL People-Based Destinations], inklusive när du ska använda ett helt nytt alternativ för olika enheter.
+I den här videon får du lära dig hur du konfigurerar en [!UICONTROL Profile Merge Rule] som ska användas för personbaserade destinationer, inklusive när ett helt nytt alternativ för olika enheter ska användas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29076/?quality=12)

@@ -1,7 +1,7 @@
 ---
-title: Använda Data Explorer för att skapa retroaktiva egenskaper och segment
-description: I den här videon visas hur du skapar retroaktiva egenskaper, d.v.s. egenskaper som fyller i data baklänges till egenskaperna från innan de skapades. Det här är ett stort genombrott när det gäller att skapa egenskaper!
-feature: 'Data Explorer '
+title: Använd Data Explorer för att skapa retroaktiva egenskaper och segment
+description: Lär dig hur du skapar retroaktiva egenskaper, t.ex. egenskaper som fyller i data baklänges innan de skapades. Det här är ett stort genombrott när det gäller att skapa egenskaper!
+feature: Data Explorer
 topics: null
 activity: use
 doc-type: feature video
@@ -11,19 +11,19 @@ kt: 1762
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 1bb40810-dca9-475f-a312-6e2c1be8149c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '168'
-ht-degree: 1%
+source-wordcount: '172'
+ht-degree: 0%
 
 ---
 
-# Använda [!DNL Data Explorer] för att skapa Retroaktiv [!UICONTROL Traits] och [!UICONTROL Segments] {#using-data-explorer-to-create-retroactive-traits-and-segments}
+# Använd [!UICONTROL Data Explorer] för att skapa retroaktiva egenskaper och segment {#using-data-explorer-to-create-retroactive-traits-and-segments}
 
-I den här videon visas hur du skapar retroaktiv [!UICONTROL traits], dvs. [!UICONTROL traits] som fyller i data i [!UICONTROL trait] från innan det skapades. Det här är ett stort genombrott när du skapar [!UICONTROL trait]!
+I den här videon visas hur du skapar retroaktiva egenskaper, t.ex. egenskaper som fyller i data baklänges innan de skapades. Det här är ett stort genombrott när det gäller att skapa egenskaper!
 
 >[!VIDEO](https://video.tv.adobe.com/v/25169/?quality=12)
 
-Fram tills nu, när du skapade [!UICONTROL traits], samlade de bara in data som flyttades framåt. Det innebar att vi var tvungna att skapa en massa [!UICONTROL traits] &quot;bara i det fall de fick trafik/data i dem. Nu kan du vänta med att se vilka nyckel/värde-par som tar emot data och sedan skapa en [!UICONTROL trait] och fylla i data baklänges i [!UICONTROL trait]. Detta sparar tid och energi och hjälper dig även att hålla din [!UICONTROL trait]-taxonomi tätt, i stället för att ha en hög med [!UICONTROL traits] som inte har några data.
+Fram tills nu, när du har skapat egenskaper, samlar de bara in data när du går framåt. Det innebar att ni måste skapa många egenskaper om de skulle få trafik eller data. Nu kan du vänta och se vilka nyckel/värde-par som tar emot data och sedan skapa ett trait och fylla i data igen. Detta sparar tid och energi och hjälper dig även att hålla din egen taxonomi nära till hands, i stället för att ha flera egenskaper som inte har data.
 
-Mer information om [!DNL Data Explorer] finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).
+Mer information om [!DNL Data Explorer], besök [Data Explorer - Översikt, Fördelar och Användningsexempel](https://experiencecloud.adobe.com/resources/help/en_US/aam/data-explorer.html).

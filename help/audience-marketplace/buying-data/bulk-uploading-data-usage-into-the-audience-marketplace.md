@@ -11,20 +11,20 @@ kt: 1782
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: ad725f78-1730-4f42-b185-f868120c7b50
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: b7c57e42f81762c634f534602d242092b6af414b
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
 
 # Massöverföring av dataanvändning till [!UICONTROL Audience Marketplace] {#bulk-uploading-data-usage-into-the-audience-marketplace}
 
-När du rapporterar dataanvändning från andra och tredje part i [!UICONTROL Audience Marketplace] kan du ha tillräckligt många poster för att göra det så att du inte vill göra det för hand. I den här videon får du lära dig hur du använder satsöverföringsverktyget för rapportering av dataanvändning, så att du enkelt kan rapportera din dataanvändning, även om du har många objekt att uppdatera.
+När du rapporterar andra och tredje parts dataanvändning i [!UICONTROL Audience Marketplace]kan du ha så många poster att du inte vill göra det för hand. I den här videon får du lära dig hur du använder massöverföringsverktyget för rapportering av dataanvändning. Med det här verktyget kan du enkelt rapportera dataanvändningen, även om du har många objekt att uppdatera.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25521/?quality=12)
 
-Förutom att ha det här massöverföringsverktyget för att förenkla och spara tid när du rapporterar dataanvändningen, kan kunder som köper data från [!UICONTROL Audience Marketplace] från andra part eller tredje part dra nytta av en förbättrad policy för kostnadsattribuering. Denna nya policy tilldelar kostnader till dataleverantörer baserat på antalet unika användare i ett regelbaserat segment, vilket ger större transparens och rättvis fakturering.
-Mer information om faktureringsalgoritmen finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html).
+Förutom att ha det här massöverföringsverktyget för att förenkla och spara tid när du rapporterar dataanvändningen, kan kunder köpa data från andra leverantörer eller tredje part [!UICONTROL Audience Marketplace] Dra nytta av en förbättrad policy för kostnadsattribuering. Denna nya policy tillskriver dataleverantörerna kostnader baserat på antalet unika användare i ett regelbaserat segment, vilket ger större transparens och rättvis fakturering.
+Mer information om faktureringsalgoritmen finns i [Kostnadsattribuering för CPM-datafeeds](https://experiencecloud.adobe.com/resources/help/en_US/aam/marketplace_cpm_billing.html) i produktdokumentationen.
 
-Mer information om hur du rapporterar CPM-användning finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html).
+Mer information om hur du rapporterar CPM-användning finns i [Rapportera CPM-användning](https://experiencecloud.adobe.com/resources/help/en_US/aam/t_marketplace_report_cpm_usage.html) i produktdokumentationen.

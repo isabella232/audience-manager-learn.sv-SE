@@ -11,19 +11,19 @@ kt: 5028
 role: User
 level: Beginner
 exl-id: 1cb80961-c3e2-4a33-a09c-f84cbfed19bd
-source-git-commit: 086071ab04551c512c5415f091a8054123bc6445
+source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
 # Förstå och konfigurera [!DNL LinkedIn] [!UICONTROL People-Based Destination]
 
-I den här videon får du hjälp med att skapa en [!UICONTROL People-Based Destination] till [!DNL LinkedIn]. Det bygger på ytterligare videoklipp och dokumentation om [!UICONTROL People-Based Destinations].
+I den här videon får du hjälp med att skapa en [!UICONTROL People-Based Destination] till [!DNL LinkedIn]. Det bygger på ytterligare videor och dokumentation om personbaserade destinationer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34171/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
 
-Du kan också hitta ytterligare videofilmer om [!UICONTROL People-Based Destinations] [HERE](https://adobe.ly/aamlearnpbd).
+Du kan även hitta ytterligare videofilmer om personbaserade destinationer [HÄR](https://adobe.ly/aamlearnpbd).

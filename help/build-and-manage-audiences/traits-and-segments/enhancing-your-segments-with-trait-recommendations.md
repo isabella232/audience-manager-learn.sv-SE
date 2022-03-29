@@ -1,7 +1,7 @@
 ---
-title: Förbättra dina AAM segment med Trait Recommendations
-description: När du skapar eller redigerar ett segment i Segment Builder med Trait Recommendations får du rekommendationer om ytterligare egenskaper som du kan inkludera, som liknar egenskaperna i segmentregeln.
-feature: 'Segment '
+title: Förbättra era segment med Trait Recommendations
+description: När du skapar eller redigerar ett segment med Trait Recommendations får du rekommendationer om vilka egenskaper du kan inkludera som liknar egenskaperna i segmentregeln.
+feature: Segments
 topics: null
 activity: use
 doc-type: feature video
@@ -11,18 +11,19 @@ kt: 2431
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 2d1b66fc-0091-44d1-970a-f30d6d5cca4c
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: e5c694156ce6196b312fc54ae59755bac07ea676
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Förbättra dina AAM [!UICONTROL Segments] med [!DNL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
+# Förbättra era segment med [!UICONTROL Trait Recommendations] {#enhancing-your-aam-segments-with-trait-recommendations}
 
-När du skapar eller redigerar en [!UICONTROL segment] i [!DNL Segment Builder] får du rekommendationer om ytterligare [!UICONTROL traits] som du kan inkludera, som liknar [!UICONTROL traits] i [!UICONTROL segment]-regeln.[!DNL Trait Recommendations]
+Med [!UICONTROL Trait Recommendations]när du skapar eller redigerar ett segment i [!UICONTROL Segments]får du rekommendationer om vilka egenskaper du kan inkludera som liknar egenskaperna i segmentregeln.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26228/?quality=12)
 
-[!DNL Trait Recommendations] arbeta med både  [!UICONTROL first party] och  [!UICONTROL third party] data, så att ni kan ta med ytterligare rekommenderade  [!UICONTROL traits] data och öka målgruppen.\
-Mer information om den här funktionen finns i [dokumentationen](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
+[!UICONTROL Trait Recommendations] arbeta med både egna data och data från tredje part, så att du kan inkludera ytterligare rekommenderade [!UICONTROL Traits] och öka er målgrupp.
+
+Mer information om den här funktionen finns på [dokumentation](https://experiencecloud.adobe.com/resources/help/en_US/aam/trait-recommendations.html).
