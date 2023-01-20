@@ -1,7 +1,7 @@
 ---
-title: Integrering med Adobe Advertising Cloud och Adobe Audience Manager
-description: Se hur integrationen mellan Adobe Audience Manager och Adobe Ad Cloud fungerar. Få även svar om matchningsfrekvenser och cookie-synkning från tredje part.
-feature: Advertising Cloud Integration
+title: Adobe Advertising and Adobe Audience Manager Integration
+description: Se hur integrationen mellan Adobe Audience Manager och Adobe Advertising fungerar. Få även svar om matchningsfrekvenser och cookie-synkning från tredje part.
+feature: Advertising Integration
 topics: null
 activity: understand
 doc-type: technical video
@@ -12,15 +12,15 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 92041f1c-6a05-4705-a56d-df5e9dbddac0
-source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
+source-git-commit: d0812450ddc8c7398e7bb58b40dbb1c3818d7215
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Integrering med Adobe Advertising Cloud och Adobe Audience Manager {#adobe-advertising-cloud-and-adobe-audience-manager-integration}
+# Adobe Advertising and Adobe Audience Manager Integration
 
-Läs om integrationen mellan Adobe Audience Manager och [!DNL Adobe Ad Cloud] fungerar. Få även svar på matchningsfrekvenser och cookie-synkning från tredje part.
+Läs om integrationen mellan Adobe Audience Manager och [!DNL Adobe Advertising] fungerar. Få även svar på matchningsfrekvenser och cookie-synkning från tredje part.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25894/?quality=12)
