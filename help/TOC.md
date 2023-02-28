@@ -1,13 +1,13 @@
 ---
-user-guide-title: Adobe Audience Manager Tutorials
-user-guide-description: En samling videor och självstudiekurser för Adobe Analytics.
+user-guide-title: Självstudiekurser om Adobe Audience Manager
+user-guide-description: En samling videor och självstudiekurser om Adobe Analytics.
 breadcrumb-title: Självstudiekurser för Audience Manager
 solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '966'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -55,7 +55,7 @@ ht-degree: 1%
 + Integrera offlinedata {#integrating-offline-data}
    + [Formatera och importera filbaserade data](integrating-offline-data/formatting-and-ingesting-file-based-data.md)
    + [Steg för inhämtning av filbaserade data](integrating-offline-data/steps-for-ingesting-file-based-data.md)
-+ Implementering av Mobile {#mobile-implementation}
++ Mobilimplementering {#mobile-implementation}
    + [Implementera i iOS Swift-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en)
    + [Implementering i iOS Objective-C-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en)
    + [Implementera i Android-program](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en)

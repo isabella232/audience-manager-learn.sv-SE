@@ -1,7 +1,7 @@
 ---
 title: Skapa en datakälla för analysdata
-description: Lär dig hur du skapar en datakälla för data som hämtas live från en analyslösning som Adobe Analytics. Gör detta innan du skapar egenskaper för analysdata.
-landing-page-description: Lär dig hur du skapar en datakälla för data som hämtas live från en analyslösning som Adobe Analytics. Gör detta innan du skapar egenskaper för analysdata.
+description: Lär dig hur du skapar en datakälla för data som hämtas i realtid från en analyslösning som Adobe Analytics. Gör detta innan du skapar egenskaper för analysdata.
+landing-page-description: Lär dig hur du skapar en datakälla för data som hämtas i realtid från en analyslösning som Adobe Analytics. Gör detta innan du skapar egenskaper för analysdata.
 feature: Data Sources
 doc-type: feature video
 kt: 2928
@@ -10,7 +10,7 @@ level: Beginner
 exl-id: f5d6a033-3205-4f02-9991-968191ed2f84
 source-git-commit: 2094d3bcf658913171afa848e4228653c71c41de
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
