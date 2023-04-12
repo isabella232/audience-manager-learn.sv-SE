@@ -2,7 +2,7 @@
 title: Introduktion till identitet i Audience Manager
 description: Upptäck hur Audience Manager hanterar identitet – inklusive interna profiler och profilsammanslagning samt ID-synkronisering med partners.
 landing-page-description: Upptäck hur Audience Manager hanterar identitet – inklusive interna profiler och profilsammanslagning samt ID-synkronisering med partners.
-short-description: Discover how Audience Manager manages identity – including internal profiles and profile merging, plus ID syncing with partners.
+short-description: Upptäck hur Audience Manager hanterar identitet – inklusive interna profiler och profilsammanslagning samt ID-synkronisering med partners.
 feature: ID Syncs
 topics: null
 activity: understand
@@ -15,8 +15,8 @@ level: Beginner
 exl-id: 57e2274c-df69-4f1f-b999-a05b864023aa
 source-git-commit: f3efc9be51080a95618ea05e6021ec6064b87598
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 47%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
