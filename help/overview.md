@@ -9,7 +9,7 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
+source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
 workflow-type: tm+mt
 source-wordcount: '341'
 ht-degree: 8%
@@ -24,6 +24,7 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
 * Utforska innehållet efter ämne och underämne i den **vänstra navigeringen**
 * Använd **sökfältet** överst på sidan om du vet vad du letar efter
 
+<div id="whats-new-section">
 ## Nyheter
 
 * **[Översikt över [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
@@ -37,6 +38,16 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
 * **[Skapa och konfigurera personbaserade mål](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
 
    *Lär dig hur du skapar en [!DNL People-Based Destination] i användargränssnittet i Audience Manager*
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## Personalval
 
@@ -44,11 +55,11 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
 <tr>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i Mobile iOS Swift Applications"" src="assets/thumb_swift.png" />
+      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i iOS Swift-program för mobila enheter"" src="assets/thumb_swift.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Implementera Experience Cloud i Mobile iOS-appar</strong>
+    <strong>Implementera Experience Cloud i iOS-appar för mobiler</strong>
     </a>
     </div>
     <p>
@@ -57,11 +68,11 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i Mobile Android-program"" src="assets/thumb_android.png" />
+      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i mobila Android-program"" src="assets/thumb_android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>Implementera Experience Cloud i Mobile [!DNL Android] Appar</strong>
+    <strong>Implementera Experience Cloud i mobilen [!DNL Android] Appar</strong>
     </a>
     </div>
     <p>
@@ -70,11 +81,11 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i Mobile Objective-C-program"" src="assets/thumb_objective_c.png" />
+      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i mobila mål-C-program"" src="assets/thumb_objective_c.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementera Experience Cloud i Mobile mål-C-appar</strong>
+    <strong>Implementera Experience Cloud i appar för mobilmål C</strong>
     </a>
     </div>
     <p>
@@ -83,3 +94,4 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
   </td>
 </tr>
 </table>
+</div>
