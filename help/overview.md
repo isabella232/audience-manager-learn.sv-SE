@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: cff9d6c0fe15feae8cac1961c8fe7a1f7f876059
+source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 8%
+source-wordcount: '312'
+ht-degree: 11%
 
 ---
 
@@ -54,42 +54,42 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i iOS Swift-program för mobila enheter"" src="assets/thumb_swift.png" />
+    <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+      <img alt="miniatyrbild för självstudiekursen Implementera Adobe Experience Cloud med Web SDK" src="assets/implement-web-sdk.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-swift-apps-with-launch/index.html?lang=en">
-    <strong>Implementera Experience Cloud i iOS-appar för mobiler</strong>
+      <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
+    <strong>Självstudiekurs om att implementera Adobe Experience Cloud med webb-SDK</strong>
     </a>
     </div>
     <p>
-    <em>Perfekt startpunkt för mobilappsutvecklare som vill lära sig hur man implementerar Adobe Experience Cloud-lösningar i sina iOS Swift-appar</em>
+    <em>Lär dig hur du implementerar Experience Cloud-program med Adobe Experience Platform Web SDK.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i mobila Android-program"" src="assets/thumb_android.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+      <img alt="miniatyrbild för självstudiekursen Förstå segment i realtid (CDP)" src="assets/331901.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-android-apps-with-launch/index.html?lang=en">
-    <strong>Implementera Experience Cloud i mobilen [!DNL Android] Appar</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-segments-for-aam-users.html">
+    <strong>Förstå segment i CDP för Audience Manager i realtid</strong>
     </a>
     </div>
     <p>
-    <em>Perfekt startpunkt för mobilappsutvecklare som vill lära sig hur man implementerar Adobe Experience Cloud-lösningar i sina Android-appar</em>
+    <em>I den här videon visas skillnaderna mellan segment och segmentskapande mellan Audience Manager och CDP i realtid.</em>
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-      <img alt="miniatyrbild för självstudiekursen"Implementera Experience Cloud i mobila mål-C-program"" src="assets/thumb_objective_c.png" />
+    <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+      <img alt="miniatyrbild för självstudiekursen"Konfigurera och rapportera om prediktiva målgrupper i Audience Manager"" src="assets/33630.jpg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/launch-learn/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html?lang=en">
-    <strong>Implementera Experience Cloud i appar för mobilmål C</strong>
+      <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
+    <strong>Konfigurera och rapportera om prediktiva målgrupper i Audience Manager</strong>
     </a>
     </div>
     <p>
-    <em>Perfekt startpunkt för mobilappsutvecklare som vill lära sig hur man implementerar Adobe Experience Cloud lösningar i målgruppsappar</em>
+    <em>I den här videon går vi igenom konfigurationen för prediktiva målgrupper i Audience Manager.</em>
     <p>
   </td>
 </tr>
