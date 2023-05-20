@@ -1,8 +1,8 @@
 ---
 title: Förstå inmatning av webbdata i CDP för Audience Manager i realtid
-description: I den här videon visas Audience Manager-användare begreppen för att föra in webbplatsdata i kunddataplattformen i realtid (CDP i realtid) och innehåller en högnivåtouche om var Audience Manager Data Connector passar samt hur data kan flyttas från webbplatsen direkt via Web SDK till CDP i realtid.
-feature: Plattformsintegrering
-topic: Integreringar
+description: I den här videon visas för Audience Manager vilka koncept som används för att föra in webbplatsdata i Real-time Customer Data Platform (CDP i realtid). Där finns också en fingerberöring om var Audience Manager Data Connector passar samt hur data kan flyttas från webbplatsen direkt via Web SDK till CDP i realtid.
+feature: Platform Integration
+topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
 doc-type: feature video
@@ -11,20 +11,20 @@ kt: 7153
 exl-id: e0ea393d-b332-4754-b855-25c838a463b4
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
 # Förstå inmatning av webbdata i CDP för Audience Manager i realtid
 
-I den här videon visas Audience Manager-användare begreppen för att föra in webbplatsdata i kunddataplattformen i realtid (CDP i realtid) och innehåller en högnivåtouche om var Audience Manager Data Connector passar samt hur data kan flyttas från webbplatsen direkt via Web SDK till CDP i realtid.
+I den här videon visas för Audience Manager vilka koncept som används för att föra in webbplatsdata i Real-time Customer Data Platform (CDP i realtid). Där finns också en fingerberöring om var Audience Manager Data Connector passar samt hur data kan flyttas från webbplatsen direkt via Web SDK till CDP i realtid.
 
 >[!VIDEO](https://video.tv.adobe.com/v/331752/?quality=12&learn=on)
 
 ## Ytterligare resurser
 
-Nedan finns några videor och självstudiekurser som kan hjälpa dig att lära dig mer om kunddataplattformen i realtid. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
+Nedan finns några videor och självstudiekurser som kan hjälpa dig att lära dig mer om Real-time Customer Data Platform. Du kan utforska andra videor och självstudiekurser runt dessa och lära dig mer om Platform.
 
 * [Infoga data med Adobe Audience Manager dataanslutning](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html?lang=en#sources)
 * [Adobe Experience Platform Web SDK Tutorials](https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html?lang=en)

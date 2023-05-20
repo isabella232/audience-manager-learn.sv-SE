@@ -1,7 +1,7 @@
 ---
 title: Översikt över regler för profilsammanslagning
 description: Förstå vilka regler för profilsammanslagning som är, hur de fungerar och deras värde för marknadsföraren.
-feature: Sammanfoga profil
+feature: Profile Merge
 topics: null
 activity: understand
 doc-type: feature video
@@ -13,13 +13,13 @@ level: Intermediate
 exl-id: edabbd66-1ee0-4337-bf27-7f240e8156a8
 source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
 workflow-type: tm+mt
-source-wordcount: '36'
+source-wordcount: '34'
 ht-degree: 0%
 
 ---
 
 # Översikt över [!UICONTROL Profile Merge Rules]
 
-Förstå vad [!UICONTROL Profile Merge Rules] är, hur de fungerar och deras värde för marknadsföraren.
+Förstå vad [!UICONTROL Profile Merge Rules] är hur de fungerar och deras värde för marknadsföraren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28974/?quality=12)

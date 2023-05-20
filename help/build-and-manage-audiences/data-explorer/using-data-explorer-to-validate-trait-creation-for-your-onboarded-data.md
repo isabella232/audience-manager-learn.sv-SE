@@ -1,5 +1,5 @@
 ---
-title: 'Använd Data Explorer för att validera att trait creation skapas för on-boarddata '
+title: Använd Data Explorer för att validera att trait creation skapas för on-boarddata
 description: En av de kraftfullaste funktionerna i Audience Manager är möjligheten att lägga in offlinedata och knyta dessa till era onlinedata. I den här videon får du lära dig hur du använder Data Explorer för att validera att du har skapat alla egenskaper som krävs för att utnyttja dessa inbyggda data.
 feature: Data Explorer
 topics: null

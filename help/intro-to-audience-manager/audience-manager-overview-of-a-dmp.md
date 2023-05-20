@@ -1,6 +1,6 @@
 ---
 title: Audience Manager - Översikt över en datahanteringsplattform
-description: Förstå de största utmaningarna med kanalövergripande personalisering och hur Adobe Audience Manager hanterar kundresan. Lär dig också vilka datatyper som kan registreras i Audience Manager och identifiera de ad-tech-ekosystempartners som är integrerade med Audience Manager.
+description: Förstå huvudutmaningarna med kanalövergripande personalisering och hur Adobe Audience Manager hanterar kundresan. Lär dig också vilka datatyper som kan registreras i Audience Manager och identifiera de ad-tech-ekosystempartners som är integrerade med Audience Manager.
 feature: Overview
 topics: null
 activity: understand
@@ -21,8 +21,8 @@ ht-degree: 0%
 
 # Audience Manager - Översikt över en datahanteringsplattform
 
-Förstå de största utmaningarna med kanalövergripande personalisering och hur Adobe Audience Manager hanterar kundresan. Lär dig också vilka datatyper som kan registreras i Audience Manager och identifiera de ad-tech-ekosystempartners som är integrerade med Audience Manager.
+Förstå huvudutmaningarna med kanalövergripande personalisering och hur Adobe Audience Manager hanterar kundresan. Lär dig också vilka datatyper som kan registreras i Audience Manager och identifiera de ad-tech-ekosystempartners som är integrerade med Audience Manager.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33894/?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).
+Mer information finns på [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html).

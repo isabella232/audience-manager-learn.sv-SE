@@ -8,7 +8,7 @@ git-repo: https://github.com/AdobeDocs/audience-manager-learn.sv-SE
 index: true
 source-git-commit: 17276b61f22448a073d518755ae2ff32253bf23c
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---

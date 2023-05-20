@@ -1,6 +1,6 @@
 ---
 title: Uteslut egenskaper i algoritmiska (stilliknande) modeller
-description: 'Lär dig hur och varför du ska exkludera specifika (eller grupper av) egenskaper från en algoritmisk (Look-Alike) modell. '
+description: Lär dig hur och varför du ska exkludera specifika (eller grupper av) egenskaper från en algoritmisk (Look-Alike) modell.
 feature: Algorithmic Models
 topics: null
 activity: use

@@ -6,8 +6,8 @@ solution: Audience Manager
 type: Tutorial
 source-git-commit: 62b43b5627dabf754cf821f974a56c60989ef7ef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '966'
+ht-degree: 2%
 
 ---
 
