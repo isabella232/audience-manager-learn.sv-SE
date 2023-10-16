@@ -1,7 +1,7 @@
 ---
 title: Förstå segment i CDP för Audience Manager i realtid
 description: När du går från Audience Manager till Real-time Customer Data Platform är det bra att förstå skillnaderna i koncept. I den här videon visas skillnaderna mellan segment och segmentskapande mellan Audience Manager och CDP i realtid.
-feature: Platform Integration
+feature: Experience Platform Integration
 topic: Integrations
 role: User, Architect, Admin, Leader
 level: Intermediate
@@ -9,7 +9,7 @@ doc-type: feature video
 thumbnail: 331901.jpg
 kt: 7205
 exl-id: a3255af9-372e-4c2e-b3e6-3b71b3616bfa
-source-git-commit: 4b91696f840518312ec041abdbe5217178aee405
+source-git-commit: 5c76721780ab46faec503db774928649e8274327
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
