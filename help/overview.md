@@ -9,10 +9,10 @@ team: Technical Marketing
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: c6aa264c-30ce-42ff-bf8a-e651ddc2ff01
-source-git-commit: 8a0bc70bb543556a0ab68e428beaa58ca09deddc
+source-git-commit: 2f902a00139942e14b0a108c7515745cfe6d52ec
 workflow-type: tm+mt
-source-wordcount: '312'
-ht-degree: 11%
+source-wordcount: '223'
+ht-degree: 0%
 
 ---
 
@@ -20,25 +20,12 @@ ht-degree: 11%
 
 Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa självstudiekurser tillsammans med [dokumentation](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html) ger er en bättre förståelse för hur ni kan använda Adobe Audience Manager för att skapa och aktivera målgrupper i alla kanaler och enheter med hjälp av Adobe i toppklass [!DNL data management platform].
 
+* Se **&quot;What&#39;s New&quot;** för de senaste uppdateringarna och funktionerna
 * **Personalval** markerar en del av vårt favoritinnehåll
-* Utforska innehållet efter ämne och underämne i den **vänstra navigeringen**
-* Använd **sökfältet** överst på sidan om du vet vad du letar efter
+* Utforska innehållet efter ämne och ämne i **vänster navigering**
+* Använd **sök** fältet längst upp på sidan om du vet vad du letar efter
 
-<div id="whats-new-section">
-## Nyheter
 
-* **[Översikt över [!UICONTROL Profile Merge Rules] (Video)](build-and-manage-audiences/profile-merge/overview-of-profile-merge-rules.md)**
-
-   *Förstå vad [!UICONTROL Profile Merge Rules] är hur de fungerar och deras värde för marknadsföraren.*
-
-* **[[!UICONTROL Profile Merge Rule]Exempel och användningsexempel](build-and-manage-audiences/profile-merge/profile-merge-rule-examples-and-use-cases.md)**
-
-   *I den här videon visas exempel på [!UICONTROL Profile Merge Rules] och vad de betyder, liksom användningsexemplen som [!UICONTROL Profile Merge Rules] lösa för.*
-
-* **[Skapa och konfigurera personbaserade mål](data-activation/people-based-destinations/create-and-configure-people-based-destinations.md)**
-
-   *Lär dig hur du skapar en [!DNL People-Based Destination] i användargränssnittet i Audience Manager*
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -59,7 +46,7 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/platform-learn/implement-web-sdk/overview.html">
-    <strong>Självstudiekurs om att implementera Adobe Experience Cloud med webb-SDK</strong>
+    <strong>Implementera Adobe Experience Cloud med Web SDK, genomgång</strong>
     </a>
     </div>
     <p>
@@ -81,7 +68,7 @@ Välkommen till självstudiewebbplatsen för Audience Manager. Använd dessa sj�
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
-      <img alt="miniatyrbild för självstudiekursen"Konfigurera och rapportera om prediktiva målgrupper i Audience Manager"" src="assets/33630.jpg" />
+      <img alt="miniatyrbild för självstudiekursen&quot;Konfigurera och rapportera om prediktiva målgrupper i Audience Manager&quot;" src="assets/33630.jpg" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html">
